@@ -9,10 +9,12 @@ public class WorldMap {
     Random random = new Random();
     Rectangle savannaRec;
     Rectangle jungleRec;
-    int elementsJungle;
-    int elementsSavanna;
-    int maxElementsJungle;
-    int maxElementsSavanna;
+
+
+    int dayEnergyCost;
+    int startEnergy;
+    int grassEnergy;
+
     Vector2d mapStartVector = new Vector2d(0, 0);
     Vector2d jungleStartVector = new Vector2d(0, 0);
     HashMap<Vector2d, Grass> grassMap = new HashMap<>();
@@ -22,8 +24,6 @@ public class WorldMap {
         jungleStartVector = mapStartVector.add(new Vector2d((mapWidth - jungleWidth) / 2, (mapHeight - jungleHeight) / 2));
         savannaRec = new Rectangle(mapWidth, mapHeight, mapStartVector);
         jungleRec = new Rectangle(jungleWidth, jungleHeight, jungleStartVector);
-        maxElementsJungle = jungleHeight * jungleWidth;
-        maxElementsSavanna = mapHeight * mapWidth - maxElementsJungle;
         generateInitialGrass(10);
     }
 
@@ -40,8 +40,11 @@ public class WorldMap {
 
     private void growGrassSavanna() {
         Vector2d gPos = randomPosSavanna();
-        for (int i = gPos.x; i <= savannaRec.corners[2].x; i++) {
-            for (int j = gPos.y; j <= savannaRec.corners[2].y; j++) {
+        for (int j = gPos.y; j <= savannaRec.corners[2].y; j++) {
+            if (place(new Grass(new Vector2d(gPos.x, j)))) return;
+        }
+        for (int i = gPos.x + 1; i <= savannaRec.corners[2].x; i++) {
+            for (int j = savannaRec.corners[0].y; j <= savannaRec.corners[2].y; j++) {
                 Vector2d newGpos = new Vector2d(i, j);
                 if (!jungleRec.isIn(newGpos))
                     if (place(new Grass(newGpos))) return;
@@ -50,25 +53,28 @@ public class WorldMap {
         for (int i = savannaRec.corners[0].x; i <= savannaRec.corners[2].x; i++) {
             for (int j = savannaRec.corners[0].y; j <= savannaRec.corners[2].y; j++) {
                 Vector2d newGpos = new Vector2d(i, j);
-                if (!newGpos.equals(gPos))
-                    if (!jungleRec.isIn(newGpos))
-                        if (place(new Grass(new Vector2d(i, j)))) return;
+                if (newGpos.equals(gPos)) return;
+                if (!jungleRec.isIn(newGpos))
+                    if (place(new Grass(new Vector2d(i, j)))) return;
             }
         }
     }
 
     private void growGrassJungle() {
         Vector2d gPos = randomPosJungle();
-        for (int i = gPos.x; i <= jungleRec.corners[2].x; i++) {
-            for (int j = gPos.y; j <= jungleRec.corners[2].y; j++) {
+        for (int j = gPos.y; j <= jungleRec.corners[2].y; j++) {
+            if (place(new Grass(new Vector2d(gPos.x, j)))) return;
+        }
+        for (int i = gPos.x + 1; i <= jungleRec.corners[2].x; i++) {
+            for (int j = jungleRec.corners[0].y; j <= jungleRec.corners[2].y; j++) {
                 if (place(new Grass(new Vector2d(i, j)))) return;
             }
         }
         for (int i = jungleRec.corners[0].x; i <= jungleRec.corners[2].x; i++) {
             for (int j = jungleRec.corners[0].y; j <= jungleRec.corners[2].y; j++) {
                 Vector2d newGpos = new Vector2d(i, j);
-                if (!newGpos.equals(gPos))
-                    if (place(new Grass(new Vector2d(i, j)))) return;
+                if (newGpos.equals(gPos)) return;
+                if (place(new Grass(new Vector2d(i, j)))) return;
             }
         }
     }
@@ -78,6 +84,8 @@ public class WorldMap {
             growGrassJungle();
             growGrassSavanna();
         }
+
+
     }
 
     private Vector2d randomPosJungle() {
@@ -108,23 +116,4 @@ public class WorldMap {
         return mapVisualizer.draw(savannaRec.corners[0], savannaRec.corners[2]);
     }
 
-    //    private void growGrassSavanna(){
-//        if(elementsSavanna==maxElementsSavanna) return;
-//        Grass grass = new Grass(randomPosSavanna());
-//        while (!place(grass))
-//        {
-//            grass = new Grass(randomPosSavanna());
-//        }
-//        elementsSavanna++;
-//    }
-//
-//    private void growGrassJungle(){
-//        if(elementsJungle==maxElementsJungle) return;
-//        Grass grass = new Grass(randomPosJungle());
-//        while (!place(grass))
-//        {
-//            grass = new Grass(randomPosJungle());
-//        }
-//        elementsJungle++;
-//    }
 }

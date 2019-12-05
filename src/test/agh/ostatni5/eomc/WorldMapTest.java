@@ -18,17 +18,6 @@ public class WorldMapTest {
         worldMap = new WorldMap(6,6,4,3);
         assertEquals(worldMap.jungleStartVector,new Vector2d(1,1));
     }
-    @Test
-    public void elementCountingTest(){
-        WorldMap worldMap = new WorldMap(20,10,8,4);
-        assertEquals(worldMap.maxElementsJungle,8*4);
-        assertEquals(worldMap.maxElementsSavanna,20*10-8*4);
-        assertEquals(worldMap.elementsJungle,10);
-        assertEquals(worldMap.elementsSavanna,10);
-        worldMap = new WorldMap(20,10,2,3);
-        assertEquals(worldMap.elementsJungle,6);
-        assertEquals(worldMap.elementsSavanna,10);
-    }
 
 
 }
