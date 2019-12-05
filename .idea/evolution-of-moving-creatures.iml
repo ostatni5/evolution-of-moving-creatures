@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="junit:junit:4.12" level="project" />
+    <orderEntry type="library" exported="" name="de.gurkenlabs:litiengine:0.4.17" level="project" />
   </component>
 </module>

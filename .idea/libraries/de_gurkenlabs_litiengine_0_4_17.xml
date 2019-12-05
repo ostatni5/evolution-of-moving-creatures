@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="de.gurkenlabs:litiengine:0.4.17" type="repository">
+    <properties maven-id="de.gurkenlabs:litiengine:0.4.17" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/gurkenlabs/litiengine/0.4.17/litiengine-0.4.17.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/jinput/jinput/2.0.9/jinput-2.0.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/java/jinput/jinput/2.0.9/jinput-2.0.9-natives-all.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/jorbis/0.0.17.4/jorbis-0.0.17.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/tritonus-share/0.3.7.4/tritonus-share-0.3.7.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/vorbisspi/1.0.3.3/vorbisspi-1.0.3.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/googlecode/soundlibs/jlayer/1.0.1.4/jlayer-1.0.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/code-disaster/steamworks4j/steamworks4j/1.8.0/steamworks4j-1.8.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/bind/jaxb-api/2.4.0-b180830.0359/jaxb-api-2.4.0-b180830.0359.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-core/2.3.0.1/jaxb-core-2.3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.3.2/jaxb-impl-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
