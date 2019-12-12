@@ -5,31 +5,22 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class CreatureTest {
-    Creature creature = new Creature();
 
 
     @Test
-    public void randomGenotype() {
-        creature.randomGenotype();
-        for (int i : creature.gens) {
-            System.out.println(i);
-        }
-        assertEquals(true,creature.allGeneCountAboveZero(creature.countGenes()));
-    }
-
-    @Test
-    public void breedingWith() {
-        Creature creature2 = new Creature();
-        Creature child ;
-        creature.randomGenotype();
-        creature.setPosition(0,0);
-        creature2.setPosition(0,0);
-        creature2.randomGenotype();
-        child= creature.breedingWith(creature2);
-        System.out.println("1 c 2");
-        for (int i = 0; i < 32; i++) {
-            System.out.println(creature.gens[i]+" "+child.gens[i]+" "+creature2.gens[i]);
-        }
-
+    public void testEquals() {
+        WorldMap worldMap = new WorldMap(6,6,2,2);
+        Vector2d v = new Vector2d(0,0);
+        Creature c = new Creature(worldMap,v,worldMap.startEnergy);
+        Creature c2 = new Creature(worldMap,v,worldMap.startEnergy-1);
+        Creature c3 = new Creature(c);
+        assertEquals(c,c);
+        assertTrue(c.equals(c));
+        assertEquals(c,c3);
+        assertTrue(c.equals(c3));
+        assertNotEquals(c,c2);
+       c3.setPosition(3,4);
+        assertEquals(c,c3);
+        assertTrue(c.equals(c3));
     }
 }

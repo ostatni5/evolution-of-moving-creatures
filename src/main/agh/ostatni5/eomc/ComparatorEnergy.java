@@ -6,6 +6,7 @@ public
 class ComparatorEnergy implements Comparator<Creature> {
     @Override
     public int compare(Creature creature, Creature t1) {
-        return creature.getEnergy() - t1.getEnergy();
+        if(t1.equals(creature)) return 0;
+        return t1.getEnergy()>creature.getEnergy()?1: -1 ;
     }
 }

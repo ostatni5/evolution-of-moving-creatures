@@ -1,5 +1,7 @@
 package agh.ostatni5.eomc;
 
+import java.util.Arrays;
+
 public class Rectangle {
     final public int width;
     final public int height;
@@ -12,6 +14,14 @@ public class Rectangle {
         corners[2]= new Vector2d(startPoint.x+width,startPoint.y+height);
         corners[3]= new Vector2d(startPoint.x,startPoint.y+height);
     };
+    Rectangle(Rectangle rectangle)
+    {
+        width=rectangle.width;
+        height=rectangle.height;
+        for (int i = 0; i < 4 ; i++) {
+            corners[i]= rectangle.corners[i];
+        }
+    }
 
     public boolean isIn(Vector2d v)
     {

@@ -6,148 +6,132 @@ import java.lang.reflect.Array;
 import java.util.*;
 
 public class Creature implements IMapElement {
-    Vector2d position;
-    int energy =256;
-    int maxEnergy = 256;
-    int orientation = 0;
+    private Vector2d position;
+    Energy energy;
+    Rotation rotation = Rotation.R0;
     WorldMap map;
-    int[] gens = new int[32];
+    Genotype genotype;
     Random random = new Random();
-    public Boolean breeded = false;
+    Boolean breeded = true;
+    Boolean moved =false;
+    LinkedList<Vector2d> history = new LinkedList<>();
+    int ID=0;
 
-    Creature() {
+    Creature(Creature creature) {
+        position = creature.position;
+        map = creature.map;
+        energy = creature.energy;
+        genotype = creature.genotype;
+        rotation = creature.rotation;
+        ID= creature.ID;
     }
 
-    Creature(WorldMap _map, Vector2d _position,int _maxEnergy ,int initialEnergy) {
-        position = _position;
+    Creature(WorldMap _map, Vector2d _position, int _startEnergy) {
+        position = new Vector2d(_position);
         map = _map;
-        maxEnergy=_maxEnergy;
-        energy = initialEnergy;
-        randomGenotype();
-        rotate(chooseRotation());
+        energy = new Energy(_startEnergy, _startEnergy);
+        genotype = new Genotype();
+        ID= map.creatureID++;
+        chooseRotation();
     }
 
-    public void eat(int energyGain) {
-        energy += energyGain;
+    Creature(WorldMap _map, Vector2d _position, int _startEnergy, Genotype _genotype) {
+        position = new Vector2d(_position);
+        map = _map;
+        energy = new Energy(_startEnergy, _startEnergy);
+        genotype = _genotype;
+        ID= map.creatureID++;
     }
 
-    public void removeEnergy(int amount) {
-        energy -= amount;
+    Creature(WorldMap _map, Vector2d _position, int _startEnergy, int _energyValue, Genotype _genotype, Rotation _rotation) {
+        position = new Vector2d(_position);
+        map = _map;
+        energy = new Energy(_startEnergy, _energyValue);
+        genotype = _genotype;
+        rotation = _rotation;
+        ID= map.creatureID++;
     }
 
-    int chooseRotation() {
-        return gens[random.nextInt(32)];
+    private void rotate(Rotation rotation) {
+        this.rotation = this.rotation.rotate(rotation);
     }
 
-    void rotate(int rotation) {
-        orientation += rotation;
-        orientation %= DirectionParser.directionAmount;
+    public void moveForward() {
+        Vector2d positionOld = new Vector2d(position);
+        position = position.add(rotation.getUnitVector());
+        position = map.correctPos(position);
+        map.positionChanged(positionOld, this);
+        moved=true;
+        history.offerFirst(position);
     }
 
-    void randomGenotype() {
-        int taken = 0;
-        int[] tempDirections = Arrays.copyOf(DirectionParser.directions,DirectionParser.directionAmount);
-        MyArrays.shuffleArray(tempDirections);
-        for (int i = 0; i < 7; i++) {
-            int bound = 32 - (8 - 1 - i) - taken;
-            int amount = bound == 0 ? 1 : random.nextInt(bound) + 1;
-            for (int j = 0; j < amount; j++) {
-                gens[j + taken] = tempDirections[i];
-            }
-            taken += amount;
-        }
-        for (int j = taken; j < 32; j++) {
-            gens[j] = tempDirections[7];
-        }
-       this.setGens(gens);
-    }
 
-    Boolean allGeneCountAboveZero(int[] counter) {
-        for (int i = 0; i < 8; i++) {
-            if (counter[i] == 0) return false;
-        }
-        return true;
-    }
-
-    int[] countGenes() {
-        int[] counter = new int[8];
-        Arrays.fill(counter, 0);
-        for (int i : gens) {
-            counter[i]++;
-        }
-        return counter;
-    }
-
-    public Creature breedingWith(Creature partner){
-        if(ableToBreed() && partner.ableToBreed()){
-            Creature child = new Creature();
-            child.setGens(combineGenotype(partner));
-            int[] countGenes = child.countGenes();
-            while(!child.allGeneCountAboveZero(countGenes)){
-                for (int i = 0; i < countGenes.length; i++) {
-                    if(countGenes[i]==0)
-                    {
-                        child.gens[random.nextInt(32)]=i;
-                    }
-                    countGenes=child.countGenes();
-                }
-            }
-            int parentEnergy = energy/4 +partner.energy/4;
-            removeEnergy(energy/4);
-            partner.removeEnergy(partner.energy/4);
-            child.energy=parentEnergy;
-            child.sortGens();
-            child.orientation=DirectionParser.directions[random.nextInt(DirectionParser.directionAmount)];
-            child.setPosition(position);
-            return child;
+    public Creature breedingWith(Creature partner) {
+        if (ableToBreed() && partner.ableToBreed()) {
+            int parentEnergy = breedEnergy() + partner.breedEnergy();
+            Genotype childGenotype = genotype.combineGenotype(partner.genotype);
+            return new Creature(map, position, energy.start, parentEnergy, childGenotype, rotation);
         }
         return null;
     }
 
-    int [] combineGenotype(Creature partner){
-        int geneCutIndex = random.nextInt(16)+8;
-        int[] newGenotype = new int[32];
-        int i = 0;
-        for (; i <=geneCutIndex ; i++) {
-            newGenotype[i]=gens[i];
-        }
-        for (; i <32 ; i++) {
-            newGenotype[i] = partner.gens[i];
-        }
-        return newGenotype;
+
+    private int breedEnergy() {
+        energy.loss(energy.value / 4);
+        return energy.value / 4;
     }
 
-    public boolean ableToBreed()
-    {
-        return energy>= maxEnergy/2 && !breeded;
+    public void chooseRotation() {
+        rotate(genotype.getRotation());
     }
 
-    public void setGens(int[] gens) {
-        this.gens = gens;
-        sortGens();
+    public boolean isDead() {
+        return energy.value <= 0;
     }
 
-    public void sortGens(){
-        Arrays.sort(this.gens);
+    public void makeBreedAble(){ breeded= false;}
+
+    public boolean ableToBreed() {
+        return energy.value >= energy.start / 2 && !breeded;
     }
 
     public void setPosition(Vector2d position) {
         this.position = new Vector2d(position);
     }
-    public void setPosition(int x, int y ) {
-        this.position = new Vector2d(x,y);
+
+    public void setPosition(int x, int y) {
+        this.position = new Vector2d(x, y);
     }
+
     public int getEnergy() {
-        return energy;
+        return energy.value;
     }
 
     @Override
     public Vector2d getPosition() {
-        return null;
+        return new Vector2d(position);
     }
 
     @Override
     public String toString() {
-        return DirectionParser.toString(orientation);
+        return rotation.toString();
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Creature creature = (Creature) o;
+
+        if (ID != creature.ID) return false;
+        return genotype.equals(creature.genotype);
+    }
+
+    @Override
+    public int hashCode() {
+        int result = genotype.hashCode();
+        result = 31 * result + ID;
+        return result;
     }
 }

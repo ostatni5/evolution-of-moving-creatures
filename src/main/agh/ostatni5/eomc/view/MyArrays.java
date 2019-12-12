@@ -1,4 +1,4 @@
-package agh.ostatni5.eomc;
+package agh.ostatni5.eomc.view;
 
 import java.util.Random;
 

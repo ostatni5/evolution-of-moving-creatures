@@ -3,8 +3,11 @@ package agh.ostatni5.eomc;
 public class Grass  implements IMapElement{
     Vector2d position;
 
+    Grass(int x, int y ){
+        position = new Vector2d(x,y);
+    }
     Grass(Vector2d _position){
-        position = _position;
+        position = new Vector2d(_position);
     }
     @Override
     public Vector2d getPosition() {

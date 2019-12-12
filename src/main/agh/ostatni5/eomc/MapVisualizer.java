@@ -70,6 +70,8 @@ public class MapVisualizer {
             Object object = this.map.visibleAt(currentPosition);
             if (object != null) {
                 result = object.toString();
+                if(this.map.creaturesAt(currentPosition)!=null)
+                    result+=this.map.creaturesAt(currentPosition).size();
             } else {
                 result = this.map.biomeAt(currentPosition).toString();
             }
