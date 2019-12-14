@@ -5,6 +5,7 @@ import agh.ostatni5.eomc.Vector2d;
 import agh.ostatni5.eomc.WorldMap;
 
 import javax.swing.*;
+import javax.swing.border.EmptyBorder;
 import java.awt.*;
 
 public class GameCanvas extends JPanel {
@@ -17,8 +18,17 @@ public class GameCanvas extends JPanel {
     HSLColor hslColor = new HSLColor(creatureColor);
     public GameCanvas(WorldMap worldMap){
         this.worldMap=worldMap;
-        setSize(resize(worldMap.savanna.rectangle.width),resize(worldMap.savanna.rectangle.height));
+//        setSize(resize(worldMap.savanna.rectangle.width),resize(worldMap.savanna.rectangle.height));
+
     };
+    @Override
+    public Dimension getPreferredSize() {
+        return new Dimension(resize(worldMap.savanna.rectangle.width), resize(worldMap.savanna.rectangle.height));
+    }
+    @Override
+    public Dimension getMinimumSize() {
+        return new Dimension(resize(worldMap.savanna.rectangle.width), resize(worldMap.savanna.rectangle.height));
+    }
 
     @Override
     public void paint(Graphics g) {

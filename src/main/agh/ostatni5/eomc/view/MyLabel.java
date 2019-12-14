@@ -1,6 +1,9 @@
 package agh.ostatni5.eomc.view;
 
+import javafx.scene.layout.Region;
+
 import javax.swing.*;
+import java.awt.*;
 
 public class MyLabel extends JLabel {
 
@@ -12,5 +15,13 @@ public class MyLabel extends JLabel {
     }
     public void setHtml(String string){
         super.setText(string);
+    }
+    @Override
+    public Dimension getPreferredSize() {
+        return new Dimension(200,200);
+    }
+    @Override
+    public Dimension getMinimumSize() {
+        return new Dimension(getPreferredSize().width,getPreferredSize().height);
     }
 }

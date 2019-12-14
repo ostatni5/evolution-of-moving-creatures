@@ -6,6 +6,8 @@ import agh.ostatni5.eomc.view.MyLabel;
 import org.junit.Test;
 
 import javax.swing.*;
+import javax.swing.border.EmptyBorder;
+import java.awt.*;
 import java.io.IOException;
 import java.sql.Timestamp;
 import java.util.*;
@@ -96,24 +98,32 @@ public class SimulationTest {
     }
 
     @Test
-    public void mainWithCanvasFX() throws InterruptedException {
+    public void mainWithCanvasLayout() throws InterruptedException {
         WorldMap worldMap = new WorldMap(20,20,8,4,10,10);
-        WorldMap worldMap2 = new WorldMap(20,20,8,4,10,10);
+        WorldMap worldMap2 = new WorldMap(9,9,8,4,10,10);
         String text = worldMap.toString();
         MyFrame myFrame = new MyFrame();
+        myFrame.setLayout( new BoxLayout(myFrame.getContentPane(), BoxLayout.Y_AXIS));
+        JPanel panel = new JPanel();
         GameCanvas gameCanvas = new GameCanvas(worldMap);
-        GameCanvas gameCanvas2 = new GameCanvas(worldMap2);
-        myFrame.add(gameCanvas);
-        myFrame.add(gameCanvas2);
-
         MyLabel jLabel= new MyLabel("Stats");
+        panel.setLayout(new BoxLayout(panel, BoxLayout.X_AXIS));
+        panel.add(gameCanvas);
+        panel.add(jLabel);
+        panel.setBorder(new EmptyBorder(new Insets(10, 10, 10, 10)));
+        myFrame.add(panel);
+
+        GameCanvas gameCanvas2 = new GameCanvas(worldMap2);
         MyLabel jLabel2= new MyLabel("Stats2");
-        myFrame.add(jLabel);
-        myFrame.add(jLabel2);
+        JPanel panel2 = new JPanel();
+        panel2.setLayout( new BoxLayout(panel2, BoxLayout.X_AXIS));
+        panel2.add(gameCanvas2);
+        panel2.add(jLabel2);
+        panel2.setBorder(new EmptyBorder(new Insets(10, 10, 10, 10)));
+        myFrame.add(panel2);
 
 
-
-        myFrame.setSize((int) (gameCanvas.getWidth()*2+gameCanvas.tileSize),(int)(gameCanvas.getHeight()*2+gameCanvas.tileSize*2));
+       myFrame.pack();
         for (int i = 0; i < 1000 && worldMap.creatureCount >0 ; i++) {
             worldMap.nextDay();
             worldMap2.nextDay();
