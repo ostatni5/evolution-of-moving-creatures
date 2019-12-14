@@ -1,21 +1,22 @@
 package agh.ostatni5.eomc;
 
-import javafx.util.Pair;
-
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Creature implements IMapElement {
     private Vector2d position;
-    Energy energy;
+    public Energy energy;
     Rotation rotation = Rotation.R0;
     WorldMap map;
     Genotype genotype;
     Random random = new Random();
     Boolean breeded = true;
-    Boolean moved =false;
+    Boolean moved = false;
     LinkedList<Vector2d> history = new LinkedList<>();
-    int ID=0;
+    int ID = 0;
+    int parent1ID=0;
+    int parent2ID=0;
+    int children = 0;
+    int lifespan = 0;
 
     Creature(Creature creature) {
         position = creature.position;
@@ -23,7 +24,7 @@ public class Creature implements IMapElement {
         energy = creature.energy;
         genotype = creature.genotype;
         rotation = creature.rotation;
-        ID= creature.ID;
+        ID = creature.ID;
     }
 
     Creature(WorldMap _map, Vector2d _position, int _startEnergy) {
@@ -31,7 +32,7 @@ public class Creature implements IMapElement {
         map = _map;
         energy = new Energy(_startEnergy, _startEnergy);
         genotype = new Genotype();
-        ID= map.creatureID++;
+        ID = map.creatureID++;
         chooseRotation();
     }
 
@@ -40,16 +41,18 @@ public class Creature implements IMapElement {
         map = _map;
         energy = new Energy(_startEnergy, _startEnergy);
         genotype = _genotype;
-        ID= map.creatureID++;
+        ID = map.creatureID++;
     }
 
-    Creature(WorldMap _map, Vector2d _position, int _startEnergy, int _energyValue, Genotype _genotype, Rotation _rotation) {
+    Creature(WorldMap _map, Vector2d _position, int _startEnergy, int _energyValue, Genotype _genotype,Creature creature1, Creature creature2) {
         position = new Vector2d(_position);
         map = _map;
         energy = new Energy(_startEnergy, _energyValue);
         genotype = _genotype;
-        rotation = _rotation;
-        ID= map.creatureID++;
+        rotation = genotype.getRotation();
+        ID = map.creatureID++;
+        parent1ID= creature1.ID;
+        parent2ID= creature2.ID;
     }
 
     private void rotate(Rotation rotation) {
@@ -61,7 +64,7 @@ public class Creature implements IMapElement {
         position = position.add(rotation.getUnitVector());
         position = map.correctPos(position);
         map.positionChanged(positionOld, this);
-        moved=true;
+        moved = true;
         history.offerFirst(position);
     }
 
@@ -70,7 +73,7 @@ public class Creature implements IMapElement {
         if (ableToBreed() && partner.ableToBreed()) {
             int parentEnergy = breedEnergy() + partner.breedEnergy();
             Genotype childGenotype = genotype.combineGenotype(partner.genotype);
-            return new Creature(map, position, energy.start, parentEnergy, childGenotype, rotation);
+            return new Creature(map, map.findFreeNearForChild(position), energy.start, parentEnergy, childGenotype, this,partner);
         }
         return null;
     }
@@ -89,7 +92,9 @@ public class Creature implements IMapElement {
         return energy.value <= 0;
     }
 
-    public void makeBreedAble(){ breeded= false;}
+    public void makeBreedAble() {
+        breeded = false;
+    }
 
     public boolean ableToBreed() {
         return energy.value >= energy.start / 2 && !breeded;
@@ -103,8 +108,11 @@ public class Creature implements IMapElement {
         this.position = new Vector2d(x, y);
     }
 
-    public int getEnergy() {
-        return energy.value;
+
+    private void  setParents(Creature creature1, Creature creature2)
+    {
+        parent1ID= creature1.ID;
+        parent2ID= creature2.ID;
     }
 
     @Override

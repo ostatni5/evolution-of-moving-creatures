@@ -1,4 +1,4 @@
-package agh.ostatni5.eomc.view;
+package agh.ostatni5.eomc;
 
 import java.util.Random;
 
@@ -12,5 +12,12 @@ public class MyArrays {
             array[randomIndexToSwap] = array[i];
             array[i] = temp;
         }
+    }
+    public static int [] add(int[] array,int[] array2){
+        int[] array3 = new int[array.length];
+        for (int i = 0; i <array.length ; i++) {
+            array3[i]=array[i]+array2[i];
+        }
+        return array3;
     }
 }

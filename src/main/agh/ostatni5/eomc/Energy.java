@@ -14,4 +14,9 @@ public class Energy {
     public void loss(int lossEnergy) {
         value -= lossEnergy;
     }
+
+    public float valueToStart()
+    {
+        return (float)value/(float)(start);
+    }
 }

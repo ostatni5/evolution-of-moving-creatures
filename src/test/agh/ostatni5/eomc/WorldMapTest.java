@@ -26,7 +26,8 @@ public class WorldMapTest {
         WorldMap worldMap = new WorldMap(6,6,2,2);
         assertEquals(worldMap.correctPos(new Vector2d(3,3)),new Vector2d(3,3));
         assertEquals(worldMap.correctPos(new Vector2d(7,7)),new Vector2d(0,0));
-        assertEquals(worldMap.correctPos(new Vector2d(-1,-1)),new Vector2d(6,6));
+        assertEquals(worldMap.correctPos(new Vector2d(-1,-1)),new Vector2d(5,5));
+        assertEquals(worldMap.correctPos(new Vector2d(0,-1)),new Vector2d(0,5));
     }
 
     @Test

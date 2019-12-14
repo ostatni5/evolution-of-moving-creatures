@@ -62,6 +62,9 @@ public class Genotype {
         Arrays.sort(gens);
     }
 
+    public int[] countGenes() {
+       return countGenes(gens);
+    }
     private int[] countGenes(Rotation[] gens) {
         int[] counter = new int[8];
         Arrays.fill(counter, 0);

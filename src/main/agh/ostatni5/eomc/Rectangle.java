@@ -10,9 +10,9 @@ public class Rectangle {
         width=_width;
         height=_height;
         corners[0]=startPoint;
-        corners[1]= new Vector2d(startPoint.x+width,startPoint.y);
-        corners[2]= new Vector2d(startPoint.x+width,startPoint.y+height);
-        corners[3]= new Vector2d(startPoint.x,startPoint.y+height);
+        corners[1]= new Vector2d(startPoint.x+width-1,startPoint.y);
+        corners[2]= new Vector2d(startPoint.x+width-1,startPoint.y+height-1);
+        corners[3]= new Vector2d(startPoint.x,startPoint.y+height-1);
     };
     Rectangle(Rectangle rectangle)
     {

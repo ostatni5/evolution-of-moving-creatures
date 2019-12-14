@@ -1,5 +1,9 @@
 package agh.ostatni5.eomc;
 
+import agh.ostatni5.eomc.view.GameCanvas;
+import agh.ostatni5.eomc.view.MyFrame;
+import agh.ostatni5.eomc.viewFx.MyApp;
+import javafx.application.Application;
 import javafx.scene.image.Image;
 
 import java.awt.*;
@@ -13,15 +17,12 @@ import java.util.TreeSet;
 public class Simulation {
     public static void main(String[] args) throws IOException, FontFormatException {
 
-//        File font_file = new File("src/res/fonts/andalemo.ttf");
-//        Font font = Font.createFont(Font.TRUETYPE_FONT, font_file);
-//
-//        EventQueue.invokeLater(new Runnable() {
-//            @Override
-//            public void run() {
-//                new MyFrame(text,font);
-//            }
-//        });
+        WorldMap worldMap = new WorldMap(20,20,8,4,10,10);
+        MyFrame myFrame = new MyFrame();
+        GameCanvas gameCanvas = new GameCanvas(worldMap);
+        myFrame.add(gameCanvas);
+
+        System.out.print(worldMap);
 
     }
 

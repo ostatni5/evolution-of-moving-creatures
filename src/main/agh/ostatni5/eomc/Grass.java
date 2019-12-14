@@ -1,5 +1,7 @@
 package agh.ostatni5.eomc;
 
+import java.awt.*;
+
 public class Grass  implements IMapElement{
     Vector2d position;
 
