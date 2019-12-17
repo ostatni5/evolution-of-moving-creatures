@@ -15,8 +15,9 @@ public class Creature implements IMapElement {
     int ID = 0;
     int parent1ID=0;
     int parent2ID=0;
-    int children = 0;
+    LinkedList  children = new LinkedList<Creature>();
     int lifespan = 0;
+    int death =-1;
 
     Creature(Creature creature) {
         position = creature.position;
@@ -73,7 +74,9 @@ public class Creature implements IMapElement {
         if (ableToBreed() && partner.ableToBreed()) {
             int parentEnergy = breedEnergy() + partner.breedEnergy();
             Genotype childGenotype = genotype.combineGenotype(partner.genotype);
-            return new Creature(map, map.findFreeNearForChild(position), energy.start, parentEnergy, childGenotype, this,partner);
+            Creature child =  new Creature(map, map.findFreeNearForChild(position), energy.start, parentEnergy, childGenotype, this,partner);
+            children.add(child);
+            return child ;
         }
         return null;
     }
@@ -141,5 +144,9 @@ public class Creature implements IMapElement {
         int result = genotype.hashCode();
         result = 31 * result + ID;
         return result;
+    }
+
+    public Rotation getRotation() {
+        return rotation;
     }
 }

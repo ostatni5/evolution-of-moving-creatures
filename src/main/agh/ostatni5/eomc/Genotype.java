@@ -7,6 +7,7 @@ public class Genotype {
     public static final int genotypeLength = 32;
     private Rotation[] gens = new Rotation[genotypeLength];
     private Random random = new Random();
+    private Rotation dominantGen;
 
     Genotype() {
         int j = 0;
@@ -17,10 +18,12 @@ public class Genotype {
             gens[j] = Rotation.getRandom();
         }
         Arrays.sort(gens);
+        calculateDominant();
     }
 
     Genotype(Rotation[] gens) {
         this.gens = gens;
+        calculateDominant();
     }
 
     public Rotation[] getGens() {
@@ -62,6 +65,11 @@ public class Genotype {
         Arrays.sort(gens);
     }
 
+    private void calculateDominant ()
+    {
+        dominantGen = Rotation.values()[MyArrays.getIndexOfMax(countGenes())];
+    }
+
     public int[] countGenes() {
        return countGenes(gens);
     }
@@ -83,5 +91,9 @@ public class Genotype {
             stringBuilder.append(" ");
         }
         return stringBuilder.toString();
+    }
+
+    public Rotation getDominantGen() {
+        return dominantGen;
     }
 }

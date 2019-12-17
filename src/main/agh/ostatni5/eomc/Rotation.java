@@ -7,6 +7,7 @@ public enum Rotation {
     private static Random random = new Random();
     private Vector2d unitVector;
     private final static String[] symbols = {"🡡", "🡥", "🡢", "🡦", "🡣", "🡧", "🡠", "🡤"};
+    private final static String[] symbolsReverse = {"🡣","🡦" , "🡢", "🡥","🡡", "🡤", "🡠", "🡧"};
     Rotation(Vector2d vector2d) {
         this.unitVector = vector2d;
     }
@@ -25,5 +26,8 @@ public enum Rotation {
 
     public String toString() {
         return symbols[this.ordinal()];
+    }
+    public String toStringReverse() {
+        return symbolsReverse[this.ordinal()];
     }
 }

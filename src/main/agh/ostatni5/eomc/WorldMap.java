@@ -1,10 +1,9 @@
 package agh.ostatni5.eomc;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class WorldMap implements IPositionChangeObserver {
-    public Statistics statistics = new Statistics(this);
+    public StatisticsMap statisticsMap = new StatisticsMap(this);
     MapVisualizer mapVisualizer = new MapVisualizer(this);
     MyRandom random = new MyRandom();
     Rectangle mapRec;
@@ -32,6 +31,7 @@ public class WorldMap implements IPositionChangeObserver {
     Vector2d jungleStartVector = new Vector2d(0, 0);
     HashMap<Vector2d, Grass> grassMap = new HashMap<>();
     HashMap<Vector2d, PriorityQueue<Creature>> creaturesMap = new HashMap<>();
+    HashMap<Integer , Creature> aliveCreatures =new HashMap<>();
 
     WorldMap(int mapWidth, int mapHeight, int jungleWidth, int jungleHeight) {
         jungleStartVector = mapStartVector.add(new Vector2d((mapWidth - jungleWidth) / 2, (mapHeight - jungleHeight) / 2));
@@ -65,11 +65,13 @@ public class WorldMap implements IPositionChangeObserver {
             int maxEnergy = 1;
             boolean cont = true;
             //death
-            for (Creature c : ts.toArray(new Creature[0])) {
+            for (Creature c : ts) {
                 c.makeBreedAble();
                 if (!pos.equals(c.getPosition())) throw new NumberFormatException(pos + " " + c.getPosition());
                 if (c.isDead()) {
+                    c.death = dayCount;
                     ts.remove(c);
+                    aliveCreatures.remove(c.ID);
                     //System.out.println(pos + " " + creaturesAt(pos).contains(c));
                     remove(c);
                 } else if (c.energy.value >= maxEnergy) {
@@ -123,16 +125,20 @@ public class WorldMap implements IPositionChangeObserver {
                 c.moved = false;
                 c.lifespan++;
                 energyAvg+= c.energy.value;
-                childrenAvg += c.children;
+                childrenAvg += c.children.size();
                 lifespanAvg += c.lifespan;
                 genCount=MyArrays.add(genCount,c.genotype.countGenes());
                 creatureCount2++;
             }
 
         }
-        energyAvg/=creatureCount;
-        lifespanAvg/=creatureCount;
-        childrenAvg/=creatureCount;
+        if(creatureCount>0)
+        {
+            energyAvg/=creatureCount;
+            lifespanAvg/=creatureCount;
+            childrenAvg/=creatureCount;
+        }
+
         jungle.growGrass();
         savanna.growGrass();
     }
@@ -193,6 +199,7 @@ public class WorldMap implements IPositionChangeObserver {
             creaturesMap.put(pos, new PriorityQueue<Creature>(new ComparatorEnergy()));
         }
         creaturesAt(pos).add(creature);
+        aliveCreatures.put(creature.ID,creature);
 //        System.out.print("  P" + creaturesAt(pos).size() + ":" + creature.ID + "P  ");
         creatureCount++;
         return true;
@@ -217,8 +224,8 @@ public class WorldMap implements IPositionChangeObserver {
 
     public void generateInitialCreatures(int a) {
         for (int i = 0; i < a; i++) {
-//            Creature creature = new Creature(this, random.randomPos(mapRec.corners[0], mapRec.corners[2]), startEnergy);
-            Creature creature = new Creature(this, new Vector2d(0, 0), startEnergy);
+            Creature creature = new Creature(this, random.randomPos(mapRec.corners[0], mapRec.corners[2]), startEnergy);
+//            Creature creature = new Creature(this, new Vector2d(0, 0), startEnergy);
             place(creature);
         }
     }

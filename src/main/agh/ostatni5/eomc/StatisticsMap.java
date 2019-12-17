@@ -1,12 +1,9 @@
 package agh.ostatni5.eomc;
 
-import java.util.Arrays;
-import java.util.IntSummaryStatistics;
-
-public class Statistics {
+public class StatisticsMap extends AbstractStatistics {
     WorldMap worldMap;
 
-    public Statistics(WorldMap worldMap) {
+    public StatisticsMap(WorldMap worldMap) {
         this.worldMap = worldMap;
     }
 
@@ -24,24 +21,6 @@ public class Statistics {
         return stringBuilder.toString();
     }
 
-    public String toHtml() {
-        StringBuilder stringBuilder = new StringBuilder();
-        stringBuilder.append("<html>");
-        stringBuilder.append("<table>");
-        for (String s : toString().split("\n")) {
-            String[] ss = s.split(":");
-            stringBuilder.append("<tr>");
-            for (String s1 : ss) {
-                stringBuilder.append("<td>");
-                stringBuilder.append(s1);
-                stringBuilder.append("</td>");
-            }
-            stringBuilder.append("</tr>");
-        }
-        stringBuilder.append("</table>");
-        stringBuilder.append("</html>");
-        return stringBuilder.toString();
-    }
 }
 
 

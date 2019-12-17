@@ -1,8 +1,9 @@
 package agh.ostatni5.eomc;
 
-abstract public class AbstarctStatistics {
+abstract public class AbstractStatistics {
     @Override
     public abstract String toString();
+
     public String toHtml() {
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append("<html>");
