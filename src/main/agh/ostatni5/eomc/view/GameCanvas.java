@@ -41,6 +41,25 @@ public class GameCanvas extends JPanel {
         for (Creature creature : worldMap.getAllVisibleCreatures()) {
             paintCreature(g,creature);
         }
+        paintXAxis(g);
+        paintYAxis(g);
+    }
+
+    private void paintXAxis(Graphics g)
+    {
+        g.setColor(Color.black);
+        for (int i = 0; i < worldMap.savanna.rectangle.width ; i++) {
+            g.drawString(String.valueOf(i), resize(i), tileSize/2);
+        }
+
+    }
+    private void paintYAxis(Graphics g)
+    {
+        g.setColor(Color.black);
+        for (int i = 0; i < worldMap.savanna.rectangle.height ; i++) {
+            g.drawString(String.valueOf(i), 0, resize(i)+tileSize/2);
+        }
+
     }
 
     private void paintSavanna(Graphics g){
@@ -67,7 +86,7 @@ public class GameCanvas extends JPanel {
         g.setColor( currentColor.adjustLuminance(hslColor.getLuminance()+lum));
         g.fillRect(resize(c.getPosition().x),resize(c.getPosition().y),tileSize,tileSize);
         g.setColor(Color.white);
-        g.drawString(c.toString(), resize(c.getPosition().x)+tileSize/4, resize(c.getPosition().y)+tileSize*3/4);
+        g.drawString(c.getRotation().toStringReverse(), resize(c.getPosition().x)+tileSize/4, resize(c.getPosition().y)+tileSize*3/4);
     }
 
     int resize(int a){
