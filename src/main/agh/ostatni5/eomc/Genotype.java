@@ -96,4 +96,20 @@ public class Genotype {
     public Rotation getDominantGen() {
         return dominantGen;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Genotype)) return false;
+
+        Genotype genotype = (Genotype) o;
+
+        // Probably incorrect - comparing Object[] arrays with Arrays.equals
+        return Arrays.equals(gens, genotype.gens);
+    }
+
+    @Override
+    public int hashCode() {
+        return Arrays.hashCode(gens);
+    }
 }

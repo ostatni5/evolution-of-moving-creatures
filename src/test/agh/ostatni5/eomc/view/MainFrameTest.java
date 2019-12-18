@@ -2,12 +2,10 @@ package agh.ostatni5.eomc.view;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
-
-public class MyFrameTest {
+public class MainFrameTest {
     @Test
     public void FrameTest() throws InterruptedException {
-    MyFrame myFrame = new MyFrame();
+    MainFrame mainFrame = new MainFrame();
     Thread.sleep(1000);
     }
 

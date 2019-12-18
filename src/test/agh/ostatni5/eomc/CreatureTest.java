@@ -11,8 +11,8 @@ public class CreatureTest {
     public void testEquals() {
         WorldMap worldMap = new WorldMap(6,6,2,2);
         Vector2d v = new Vector2d(0,0);
-        Creature c = new Creature(worldMap,v,worldMap.startEnergy);
-        Creature c2 = new Creature(worldMap,v,worldMap.startEnergy-1);
+        Creature c = new Creature(worldMap,v,200);
+        Creature c2 = new Creature(worldMap,v,200-1);
         Creature c3 = new Creature(c);
         assertEquals(c,c);
         assertTrue(c.equals(c));

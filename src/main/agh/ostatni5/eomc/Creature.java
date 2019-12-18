@@ -4,56 +4,49 @@ import java.util.*;
 
 public class Creature implements IMapElement {
     private Vector2d position;
-    public Energy energy;
-    Rotation rotation = Rotation.R0;
-    WorldMap map;
-    Genotype genotype;
-    Random random = new Random();
-    Boolean breeded = true;
-    Boolean moved = false;
-    LinkedList<Vector2d> history = new LinkedList<>();
-    int ID = 0;
-    int parent1ID=0;
-    int parent2ID=0;
-    LinkedList  children = new LinkedList<Creature>();
-    int lifespan = 0;
-    int death =-1;
+    private Energy energy;
+    private Rotation rotation = Rotation.R0;
+    private WorldMap worldMap;
+    private Genotype genotype;
+    private Random random = new Random();
+    private Boolean multiplied = true;
+    private Boolean moved = false;
+    private Id id;
+    private LinkedList<Creature> children = new LinkedList<Creature>();
+    private int birth = 0;
+    private int lifespan = 0;
+    private int death = -1;
 
     Creature(Creature creature) {
         position = creature.position;
-        map = creature.map;
+        worldMap = creature.worldMap;
         energy = creature.energy;
         genotype = creature.genotype;
         rotation = creature.rotation;
-        ID = creature.ID;
+        id = new Id(worldMap.creatureID++);
     }
 
     Creature(WorldMap _map, Vector2d _position, int _startEnergy) {
         position = new Vector2d(_position);
-        map = _map;
+        worldMap = _map;
         energy = new Energy(_startEnergy, _startEnergy);
         genotype = new Genotype();
-        ID = map.creatureID++;
+        id = new Id(worldMap.creatureID++);
         chooseRotation();
     }
 
-    Creature(WorldMap _map, Vector2d _position, int _startEnergy, Genotype _genotype) {
+    Creature(WorldMap _map, Vector2d _position, int _startEnergy, int _energyValue, Genotype _genotype, Creature creature1, Creature creature2) {
         position = new Vector2d(_position);
-        map = _map;
-        energy = new Energy(_startEnergy, _startEnergy);
-        genotype = _genotype;
-        ID = map.creatureID++;
-    }
-
-    Creature(WorldMap _map, Vector2d _position, int _startEnergy, int _energyValue, Genotype _genotype,Creature creature1, Creature creature2) {
-        position = new Vector2d(_position);
-        map = _map;
+        worldMap = _map;
         energy = new Energy(_startEnergy, _energyValue);
         genotype = _genotype;
         rotation = genotype.getRotation();
-        ID = map.creatureID++;
-        parent1ID= creature1.ID;
-        parent2ID= creature2.ID;
+        id = new Id(worldMap.creatureID++, creature1.getId().own, creature2.getId().own);
+    }
+
+    Creature(WorldMap _map, Vector2d _position, int _startEnergy, int _energyValue, Genotype _genotype, Creature creature1, Creature creature2, int iteration) {
+        this(_map, _position, _startEnergy, _energyValue, _genotype, creature1, creature2);
+        birth = iteration;
     }
 
     private void rotate(Rotation rotation) {
@@ -63,20 +56,19 @@ public class Creature implements IMapElement {
     public void moveForward() {
         Vector2d positionOld = new Vector2d(position);
         position = position.add(rotation.getUnitVector());
-        position = map.correctPos(position);
-        map.positionChanged(positionOld, this);
+        position = worldMap.correctPos(position);
+        worldMap.positionChanged(positionOld, this);
         moved = true;
-        history.offerFirst(position);
     }
 
 
-    public Creature breedingWith(Creature partner) {
+    public Creature breedingWith(Creature partner, int iteration) {
         if (ableToBreed() && partner.ableToBreed()) {
             int parentEnergy = breedEnergy() + partner.breedEnergy();
             Genotype childGenotype = genotype.combineGenotype(partner.genotype);
-            Creature child =  new Creature(map, map.findFreeNearForChild(position), energy.start, parentEnergy, childGenotype, this,partner);
+            Creature child = new Creature(worldMap, worldMap.findFreeNearForChild(position), energy.start, parentEnergy, childGenotype, this, partner, iteration);
             children.add(child);
-            return child ;
+            return child;
         }
         return null;
     }
@@ -96,11 +88,11 @@ public class Creature implements IMapElement {
     }
 
     public void makeBreedAble() {
-        breeded = false;
+        multiplied = false;
     }
 
     public boolean ableToBreed() {
-        return energy.value >= energy.start / 2 && !breeded;
+        return energy.value >= energy.start / 2 && !multiplied;
     }
 
     public void setPosition(Vector2d position) {
@@ -111,42 +103,81 @@ public class Creature implements IMapElement {
         this.position = new Vector2d(x, y);
     }
 
-
-    private void  setParents(Creature creature1, Creature creature2)
-    {
-        parent1ID= creature1.ID;
-        parent2ID= creature2.ID;
-    }
-
-    @Override
     public Vector2d getPosition() {
         return new Vector2d(position);
     }
 
-    @Override
     public String toString() {
         return rotation.toString();
     }
 
+    public Rotation getRotation() {
+        return rotation;
+    }
+
+    public Id getId() { return id;
+    }
+
+    public void setId(Id id) { this.id = id; }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
+        if (!(o instanceof Creature)) return false;
 
         Creature creature = (Creature) o;
 
-        if (ID != creature.ID) return false;
-        return genotype.equals(creature.genotype);
+        if (!genotype.equals(creature.genotype)) return false;
+        return id.equals(creature.id);
     }
 
     @Override
     public int hashCode() {
         int result = genotype.hashCode();
-        result = 31 * result + ID;
+        result = 31 * result + id.hashCode();
         return result;
     }
 
-    public Rotation getRotation() {
-        return rotation;
+    public int getBirth() {
+        return birth;
+    }
+
+    public Energy getEnergy() {
+        return energy;
+    }
+
+    public Genotype getGenotype() {
+        return genotype;
+    }
+
+    public Boolean getMultiplied() {
+        return multiplied;
+    }
+
+    public Boolean getMoved() {
+        return moved;
+    }
+
+    public LinkedList<Creature> getChildren() {
+        return children;
+    }
+
+    public void setNotMoved() {
+        this.moved = false;
+    }
+    public int getLifespan() {
+        return lifespan;
+    }
+
+    public void incrementLifespan() {
+        this.lifespan++;
+    }
+
+    public int getDeath() {
+        return death;
+    }
+
+    public void setDeath(int death) {
+        this.death = death;
     }
 }

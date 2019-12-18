@@ -34,11 +34,12 @@ public class WorldMapTest {
     public void place() {
         WorldMap worldMap = new WorldMap(6,6,2,2);
         Vector2d v = new Vector2d(0,0);
-        Creature c = new Creature(worldMap,v,worldMap.startEnergy);
+        int energy = 200;
+        Creature c = new Creature(worldMap,v,energy);
         Creature cCOPY = new Creature(c);
-        Creature cc = new Creature(worldMap,v,worldMap.startEnergy);
-        Creature c2 = new Creature(worldMap,v,worldMap.startEnergy-1);
-        Creature c3 = new Creature(worldMap,v,worldMap.startEnergy-2);
+        Creature cc = new Creature(worldMap,v,energy);
+        Creature c2 = new Creature(worldMap,v,energy-1);
+        Creature c3 = new Creature(worldMap,v,energy-2);
         assertEquals(c,c);
         worldMap.place(c);
         assertEquals(worldMap.creaturesAt(v).size(),1);
@@ -64,7 +65,7 @@ public class WorldMapTest {
         LinkedList<Creature> linkedList = new LinkedList<>();
         worldMap = new WorldMap(6,6,2,2);
         for (int i = 1; i <= 5  ; i++) {
-            Creature c4 = new Creature(worldMap,v,worldMap.startEnergy);
+            Creature c4 = new Creature(worldMap,v,200);
             linkedList.add(c4);
             worldMap.place(c4);
             assertEquals(i,linkedList.size());
@@ -85,10 +86,10 @@ public class WorldMapTest {
         Vector2d v1 = new Vector2d(1,1);
         Vector2d v2 = new Vector2d(2,2);
         Vector2d v3 = new Vector2d(3,3);
-        Creature c = new Creature(worldMap,v,worldMap.startEnergy);
-        Creature cc = new Creature(worldMap,v,worldMap.startEnergy);
-        Creature c2 = new Creature(worldMap,v,worldMap.startEnergy-1);
-        Creature c3 = new Creature(worldMap,v,worldMap.startEnergy-2);
+        Creature c = new Creature(worldMap,v,200);
+        Creature cc = new Creature(worldMap,v,200);
+        Creature c2 = new Creature(worldMap,v,200-1);
+        Creature c3 = new Creature(worldMap,v,200-2);
         worldMap.place(c);
         worldMap.place(cc);
         worldMap.place(c2);

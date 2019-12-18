@@ -15,7 +15,7 @@ public class Energy {
         value -= lossEnergy;
     }
 
-    public float valueToStart()
+    public float valueToStartRatio()
     {
         return (float)value/(float)(start);
     }
