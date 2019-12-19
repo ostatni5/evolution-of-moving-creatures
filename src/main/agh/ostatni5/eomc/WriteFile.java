@@ -7,7 +7,7 @@ import java.io.IOException;
 public class WriteFile {
     private String path;
     public WriteFile( String _path) {
-        path = _path;
+        path = _path.replaceAll(" ", "_");
     }
     public void writeToFile( String textLine, Boolean append ) throws IOException {
         FileWriter writer = new FileWriter(path,append);

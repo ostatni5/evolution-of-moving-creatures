@@ -13,6 +13,8 @@ public class StartPanel extends JPanel {
     private JLabel[] jLabels;
     public StartPanel(MainFrame mainFrame) {
         this.mainFrame = mainFrame;
+        Dimension dimension = new Dimension(400,30*options.names.length);
+        setMaximumSize(dimension);
         setLayout(new GridLayout(0, 2));
         jLabels = new JLabel[options.names.length];
         jTextFields = new JTextField[options.names.length];

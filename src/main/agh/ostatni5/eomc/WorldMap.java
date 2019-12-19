@@ -57,7 +57,7 @@ public class WorldMap implements IPositionChangeObserver {
             Vector2d pos = pair.getKey();
             LinkedList<Creature> creatureLinkedList = new LinkedList<Creature>(Arrays.asList(pair.getValue().toArray(new Creature[0])));
             phaseEat(phaseDeath(creatureLinkedList),pos);
-            phaseBreed(creatureLinkedList);
+            phaseBreed(pair.getValue());
             phaseMove(creatureLinkedList);
         }
         phaseStats();
@@ -75,7 +75,8 @@ public class WorldMap implements IPositionChangeObserver {
                 creature.setDeath(stats.dayCount);
                 remove(creature);
                 aliveCreatures.remove(creature.getId().own);
-                stats.decrementGenotype(creature.getGenotype());
+                stats.getGenotypeCount().decrement(creature.getGenotype());
+                stats.addDead(creature);
                 return true;
             }
             else
@@ -103,19 +104,18 @@ public class WorldMap implements IPositionChangeObserver {
         }
     }
 
-    private void phaseBreed(LinkedList<Creature> creatures)
+    private void phaseBreed(PriorityQueue<Creature> creatures)
     {
         if (creatures.size() >= 2) {
             int i = 0;
             Creature[] parents = new Creature[2];
-            for (Creature c : creatures) {
-                parents[i] = c;
-                i++;
-                if (i == 2) break;
-            }
+            parents[0]= creatures.poll();
+            parents[1]= creatures.poll();
             Creature child = parents[0].breedingWith(parents[1], stats.dayCount);
             if (child != null)
                 place(child);
+            creatures.add(parents[0]);
+            creatures.add(parents[1]);
         }
     }
 
@@ -123,7 +123,7 @@ public class WorldMap implements IPositionChangeObserver {
     {
         for (Creature creature : creatures) {
             if (!creature.getMoved()) {
-                creature.chooseRotation();
+                 creature.chooseRotation();
                 creature.moveForward();
                 creature.getEnergy().loss(dayEnergyCost);
             }
@@ -197,12 +197,12 @@ public class WorldMap implements IPositionChangeObserver {
         }
         creaturesAt(pos).add(creature);
         if(aliveCreatures.put(creature.getId().own, creature)==null)
-            stats.incrementGenotype(creature.getGenotype());
+            stats.getGenotypeCount().increment(creature.getGenotype());
         stats.creatureCount++;
         return true;
     }
 
-    public Vector2d findFreeNearForChild(Vector2d pos) {
+    public Vector2d findFreePosForChildNear(Vector2d pos) {
         Vector2d[] possiblePos = new Vector2d[Rotation.values().length];
         for (int i = 0; i < Rotation.values().length; i++) {
             possiblePos[i] = correctPos(pos.add(Rotation.values()[i].getUnitVector()));
@@ -259,5 +259,9 @@ public class WorldMap implements IPositionChangeObserver {
             creatures[i] = ((PriorityQueue<Creature>) o[i]).peek();
         }
         return creatures;
+    }
+
+    public HashMap<Integer, Creature> getAliveCreatures() {
+        return aliveCreatures;
     }
 }

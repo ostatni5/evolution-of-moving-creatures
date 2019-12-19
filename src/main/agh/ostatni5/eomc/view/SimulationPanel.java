@@ -1,5 +1,6 @@
-package agh.ostatni5.eomc;
+package agh.ostatni5.eomc.view;
 
+import agh.ostatni5.eomc.*;
 import agh.ostatni5.eomc.view.GameCanvas;
 import agh.ostatni5.eomc.view.MyLabel;
 
@@ -12,34 +13,32 @@ import java.util.concurrent.atomic.AtomicReference;
 
 import static org.junit.Assert.assertEquals;
 
-public class SimulationPanel {
+public class SimulationPanel extends JPanel {
     Options options;
-    JPanel panel;
-    public SimulationPanel(Options options){
+    History history = new History();
+
+    public SimulationPanel(Options options) {
         this.options = options;
+        init();
     }
 
-    public JPanel init(){
+    private void init() {
         AtomicReference<Boolean> simulationRunning = new AtomicReference<>(true);
         WorldMap worldMap = new WorldMap(options);
-        panel = new JPanel();
-        GameCanvas gameCanvas = new GameCanvas(worldMap,options.values[10]);
+
+        GameCanvas gameCanvas = new GameCanvas(worldMap, options.values[10]);
         MyLabel jLabel = new MyLabel("Stats");
-        panel.setLayout(new BoxLayout(panel, BoxLayout.X_AXIS));
+        setLayout(new BoxLayout(this, BoxLayout.X_AXIS));
         jLabel.setPreferredSize(new Dimension(200, 200));
-        panel.add(gameCanvas);
-        panel.add(jLabel);
-        panel.setBorder(new EmptyBorder(new Insets(10, 10, 10, 10)));
+        add(gameCanvas);
+        add(jLabel);
+        setBorder(new EmptyBorder(new Insets(10, 10, 10, 10)));
 
         JPanel statsPanel = new JPanel();
         statsPanel.setLayout(new BoxLayout(statsPanel, BoxLayout.Y_AXIS));
 
-        JLabel strongestGenomeLabel = new JLabel("Creatures with strongest genome");
-        statsPanel.add(strongestGenomeLabel);
-
-        MyLabel strongestGenomeIdLabel = new MyLabel("10");
-        strongestGenomeIdLabel.setPreferredSize(new Dimension(200, 100));
-        statsPanel.add(strongestGenomeIdLabel);
+        JButton markDominantButton = new JButton("MARK DOMINANT GENOTYPE");
+        statsPanel.add(markDominantButton);
 
         JLabel historyLabel = new JLabel("History of selected");
         statsPanel.add(historyLabel);
@@ -48,7 +47,7 @@ public class SimulationPanel {
         statsPanel.add(historyOfCreatureLabel);
 
 
-        panel.add(statsPanel);
+        add(statsPanel);
 
         JPanel buttonActionPanel = new JPanel();
         buttonActionPanel.setLayout(new BoxLayout(buttonActionPanel, BoxLayout.Y_AXIS));
@@ -71,11 +70,6 @@ public class SimulationPanel {
         JLabel idSpinnerLabel = new JLabel("How long");
         actionPanel.add(idSpinnerLabel);
 
-        SpinnerModel model = new SpinnerNumberModel(1, 1, 10000, 1);
-        JSpinner spinnerIdInfo = new JSpinner(model);
-        spinnerIdInfo.setMaximumSize(new Dimension(200, 30));
-        actionPanel.add(spinnerIdInfo);
-
         JButton watcherButton = new JButton("WATCH");
         actionPanel.add(watcherButton);
 
@@ -93,36 +87,25 @@ public class SimulationPanel {
         actionPanel.add(genomeLabel);
 
         buttonActionPanel.add(actionPanel);
-        panel.add(buttonActionPanel);
+        add(buttonActionPanel);
 
 
         actionPanel.setVisible(false);
 
 
         AtomicReference<StatisticsCreature> statisticsCreature = new AtomicReference<>();
-        AtomicReference<Boolean> waitingForInfo = new AtomicReference<>(false);
-        History history = new History();
+        AtomicReference<Boolean> showInfo = new AtomicReference<>(false);
+
         Thread simulationLoop = new Thread(() -> {
             try {
                 for (int i = 0; i < options.values[9] && worldMap.stats.creatureCount > 0; i++) {
                     if (simulationRunning.get()) {
                         worldMap.nextDay();
+                        history.addRecord(worldMap.stats);
                         jLabel.setHtml(worldMap.stats.toHtml());
                         gameCanvas.repaint();
-
-                        if (waitingForInfo.get()) {
-                            historyOfCreatureLabel.setText("Data will show at " + statisticsCreature.get().getShowDate());
-                            if (statisticsCreature.get().getShowDate() == i) {
-                                stopButton.setText("RESUME");
-                                simulationRunning.set(false);
-                                historyOfCreatureLabel.setHtml(statisticsCreature.get().toHtml());
-                                waitingForInfo.set(false);
-                            }
-
-                        }
                     } else {
                         i--;
-
                     }
                     Thread.sleep(1000 / 24);
                 }
@@ -133,43 +116,71 @@ public class SimulationPanel {
         });
         simulationLoop.start();
 
+        markDominantButton.addActionListener(actionEvent -> {
+            if (markDominantButton.getText().equals("MARK DOMINANT GENOTYPE")) {
+                markDominantButton.setText("HIDE DOMINANT GENOTYPE");
+                gameCanvas.showDominant();
+            } else {
+                markDominantButton.setText("MARK DOMINANT GENOTYPE");
+                gameCanvas.hideDominant();
+            }
+            gameCanvas.repaint();
+        });
+
+
         stopButton.addActionListener(actionEvent -> {
             if (stopButton.getText().equals("PAUSE")) {
                 stopButton.setText("RESUME");
                 simulationRunning.set(false);
 
                 LinkedList<String> opt = new LinkedList<String>();
-                for (Object o : worldMap.aliveCreatures.values().toArray()) {
+                for (Object o : worldMap.getAliveCreatures().values().toArray()) {
                     Creature creature = ((Creature) o);
                     opt.add((creature.getId().own + ":" + creature.getPosition().toString()));
                 }
                 String[] arrOpt = opt.toArray(new String[0]);
                 idCombo.setModel(new DefaultComboBoxModel<>(arrOpt));
                 idInfoCombo.setModel(new DefaultComboBoxModel<>(arrOpt));
-                if(arrOpt.length>0)
-                actionPanel.setVisible(true);
+                if (arrOpt.length > 0)
+                    actionPanel.setVisible(true);
+
+                if(showInfo.get())
+                {
+                    historyOfCreatureLabel.setHtml(statisticsCreature.get().toHtml());
+                    showInfo.set(false);
+                }
 
             } else {
                 stopButton.setText("PAUSE");
                 simulationRunning.set(true);
                 actionPanel.setVisible(false);
+                if(!showInfo.get())
+                {
+                    historyOfCreatureLabel.setHtml("");
+                    statisticsCreature.set(null);
+                    gameCanvas.clearStatisticsCreature();
+                }
             }
         });
 
         watcherButton.addActionListener(actionEvent -> {
-            Creature creature = worldMap.aliveCreatures.get(Integer.valueOf(Objects.requireNonNull(idInfoCombo.getSelectedItem()).toString().split(":")[0]));
-            statisticsCreature.set(new StatisticsCreature(creature, worldMap.stats.dayCount, (Integer) spinnerIdInfo.getValue()));
+            Creature creature = worldMap.getAliveCreatures().get(Integer.valueOf(Objects.requireNonNull(idInfoCombo.getSelectedItem()).toString().split(":")[0]));
+            statisticsCreature.set(new StatisticsCreature(creature, worldMap.stats.dayCount));
             gameCanvas.setStatisticsCreature(statisticsCreature.get());
-            waitingForInfo.set(true);
+            showInfo.set(true);
             stopButton.doClick();
         });
 
         showInfoButton.addActionListener(actionEvent -> {
-            Creature creature = worldMap.aliveCreatures.get(Integer.valueOf(Objects.requireNonNull(idInfoCombo.getSelectedItem()).toString().split(":")[0]));
+            Creature creature = worldMap.getAliveCreatures().get(Integer.valueOf(Objects.requireNonNull(idInfoCombo.getSelectedItem()).toString().split(":")[0]));
             genomeLabel.setText(creature.getGenotype().toString());
 
         });
-        return panel;
+
     }
 
+    public void willBeClosed()
+    {
+        history.toFile();
+    }
 }

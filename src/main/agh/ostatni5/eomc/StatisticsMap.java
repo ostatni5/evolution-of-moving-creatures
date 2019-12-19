@@ -7,15 +7,16 @@ import java.util.Map;
 import java.util.concurrent.atomic.LongAdder;
 
 public class StatisticsMap extends AbstractStatistics {
-    WorldMap worldMap;
-    int energyAvg = 0;
-    int lifespanAvg = 0;
-    float childrenAvg = 0;
-    int dayCount = 0;
-    int grassCount = 0;
-    int creatureCount = 0;
-    private HashMap<Genotype, LongAdder> genotypeCount = new HashMap<>();
-    private Map.Entry<Genotype, LongAdder> maxGenotype =null;
+    private WorldMap worldMap;
+    public int energyAvg = 0;
+    public int lifespanAvg = 0;
+    public float childrenAvg = 0;
+    public int dayCount = 0;
+    public int grassCount = 0;
+    public int creatureCount = 0;
+    public int deadCount =0;
+    private GenotypeMap genotypeCount = new GenotypeMap();
+    private GenotypeMap.Entry maxGenotype =null;
 
     public StatisticsMap(WorldMap worldMap) {
         this.worldMap = worldMap;
@@ -28,7 +29,7 @@ public class StatisticsMap extends AbstractStatistics {
         stringBuilder.append("CreaturesAll: ").append(worldMap.creatureID).append("\n");
         stringBuilder.append("CreaturesAlive: ").append(creatureCount).append("\n");
         stringBuilder.append("GrassCount: ").append(grassCount).append("\n");
-        maxGenotype= getDominantGenotype();
+        maxGenotype= genotypeCount.getDominant();
         if (maxGenotype != null) {
             stringBuilder.append("DominantGenotype: ").append(maxGenotype.getValue()).append("\n");
             stringBuilder.append(maxGenotype.getKey()).append("\n");
@@ -50,41 +51,31 @@ public class StatisticsMap extends AbstractStatistics {
     }
 
     public void calculateStats() {
+        dayCount++;
         if (creatureCount > 0) {
             energyAvg /= creatureCount;
             childrenAvg /= creatureCount;
         } else zeroAvg();
     }
 
-    public void incrementGenotype(Genotype genotype) {
-        if(genotypeCount.get(genotype)==null)
-        {
-            genotypeCount.put(genotype,new LongAdder());
-        }
-        genotypeCount.get(genotype).increment();
+    public void addDead(Creature creature)
+    {
+        lifespanAvg = ((lifespanAvg * deadCount ) + creature.getLifespan())/++deadCount;
     }
 
-    public void decrementGenotype(Genotype genotype) {
-        genotypeCount.get(genotype).decrement();
-    }
 
-    private Map.Entry<Genotype, LongAdder> getDominantGenotype() {
-        int max = 0;
-        Map.Entry<Genotype, LongAdder> maxGenotype = null;
-        for (Map.Entry<Genotype, LongAdder> genotypeLongAdderEntry : genotypeCount.entrySet()) {
-            if (genotypeLongAdderEntry.getValue().intValue() >= max) {
-                max = genotypeLongAdderEntry.getValue().intValue();
-                maxGenotype = genotypeLongAdderEntry;
-            }
-        }
-
-        return maxGenotype;
-    }
 
     public Creature[] getAllWithDominantGenotype()
     {
         return worldMap.aliveCreatures.values().stream().filter(creature -> creature.getGenotype().equals(maxGenotype.getKey())).toArray(Creature[]::new);
     }
 
+    public GenotypeMap cloneGenotypeCount() {
+        return (GenotypeMap) genotypeCount.clone();
+    }
+
+    public GenotypeMap getGenotypeCount() {
+        return genotypeCount;
+    }
 }
 

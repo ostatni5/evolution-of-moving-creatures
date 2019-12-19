@@ -6,14 +6,10 @@ public class StatisticsCreature extends AbstractStatistics {
 
     private Creature creature;
     private int startDate;
-    private int delay;
-    private int showDate;
 
-    public StatisticsCreature(Creature creature, int startDate , int delay) {
+    public StatisticsCreature(Creature creature, int startDate) {
         this.creature = creature;
         this.startDate = startDate;
-        this.delay = delay;
-        this.showDate = startDate+delay;
     }
 
     private int calculateAllOffspring() {
@@ -38,6 +34,7 @@ public class StatisticsCreature extends AbstractStatistics {
     @Override
     public String toString() {
         StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.append("Creature: ").append(creature.getId().own).append(":").append(creature.getPosition()).append("\n");
         stringBuilder.append("DirectOffSpring: ").append(calculateDirectOffspring()).append("\n");
         stringBuilder.append("AllOffSpring: ").append(calculateAllOffspring()).append("\n");
         if (creature.isDead())
@@ -59,22 +56,6 @@ public class StatisticsCreature extends AbstractStatistics {
 
     public void setStartDate(int startDate) {
         this.startDate = startDate;
-    }
-
-    public int getDelay() {
-        return delay;
-    }
-
-    public void setDelay(int delay) {
-        this.delay = delay;
-    }
-
-    public int getShowDate() {
-        return showDate;
-    }
-
-    public void setShowDate(int showDate) {
-        this.showDate = showDate;
     }
 
 

@@ -66,7 +66,7 @@ public class Creature implements IMapElement {
         if (ableToBreed() && partner.ableToBreed()) {
             int parentEnergy = breedEnergy() + partner.breedEnergy();
             Genotype childGenotype = genotype.combineGenotype(partner.genotype);
-            Creature child = new Creature(worldMap, worldMap.findFreeNearForChild(position), energy.start, parentEnergy, childGenotype, this, partner, iteration);
+            Creature child = new Creature(worldMap, worldMap.findFreePosForChildNear(position), energy.start, parentEnergy, childGenotype, this, partner, iteration);
             children.add(child);
             return child;
         }
