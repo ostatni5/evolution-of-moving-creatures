@@ -21,11 +21,11 @@ public class MainFrame extends JFrame {
         clearButton.addActionListener(actionEvent -> {
             clearButton.setVisible(false);
             startPanel.setVisible(true);
-            pack();
             for (SimulationPanel simulationPanel : simulationPanels) {
                 simulationPanel.willBeClosed();
                 remove(simulationPanel);
             }
+            pack();
         });
     }
 
