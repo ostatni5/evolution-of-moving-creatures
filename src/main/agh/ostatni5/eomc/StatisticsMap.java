@@ -60,6 +60,7 @@ public class StatisticsMap extends AbstractStatistics {
 
     public void addDead(Creature creature)
     {
+        getGenotypeCount().decrement(creature.getGenotype());
         lifespanAvg = ((lifespanAvg * deadCount ) + creature.getLifespan())/++deadCount;
     }
 
@@ -67,7 +68,7 @@ public class StatisticsMap extends AbstractStatistics {
 
     public Creature[] getAllWithDominantGenotype()
     {
-        return worldMap.aliveCreatures.values().stream().filter(creature -> creature.getGenotype().equals(maxGenotype.getKey())).toArray(Creature[]::new);
+        return worldMap.getAliveCreatures().values().stream().filter(creature -> creature.getGenotype().equals(maxGenotype.getKey())).toArray(Creature[]::new);
     }
 
     public GenotypeMap cloneGenotypeCount() {

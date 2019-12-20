@@ -1373,3 +1373,7230 @@ AVGAvgEnergy: 184
 AVGAvgLifespan: 0
 AVGAvgChildren: 0,20
 
+2019-12-19 21:57:50.597
+AllDays: 145
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 1 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 97
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,59
+
+2019-12-19 21:57:50.715
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,42
+
+2019-12-19 21:57:50.748
+AllDays: 150
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,46
+
+2019-12-19 21:57:50.766
+AllDays: 145
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,52
+
+2019-12-19 21:57:50.787
+AllDays: 153
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,43
+
+2019-12-19 21:57:50.804
+AllDays: 148
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 100
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,55
+
+2019-12-19 21:57:50.819
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,37
+
+2019-12-19 21:57:50.833
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,46
+
+2019-12-19 21:57:50.859
+AllDays: 150
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 92
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,48
+
+2019-12-19 21:57:50.911
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,32
+
+2019-12-19 21:57:50.92
+AllDays: 148
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 6 6 6 6 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,44
+
+2019-12-19 21:57:50.93
+AllDays: 160
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,59
+
+2019-12-19 21:57:50.965
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 1 2 2 2 2 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,43
+
+2019-12-19 21:57:50.983
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,40
+
+2019-12-19 21:57:51.007
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,45
+
+2019-12-19 21:57:51.029
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,38
+
+2019-12-19 21:57:51.081
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,38
+
+2019-12-19 21:57:51.092
+AllDays: 143
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 68
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,41
+
+2019-12-19 21:57:51.1
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,44
+
+2019-12-19 21:57:51.16
+AllDays: 154
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,48
+
+2019-12-19 21:57:51.172
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 1 2 2 2 3 3 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,31
+
+2019-12-19 21:57:51.18
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 4 4 5 5 5 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,39
+
+2019-12-19 21:57:51.191
+AllDays: 146
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 85
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,42
+
+2019-12-19 21:57:51.205
+AllDays: 147
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,30
+
+2019-12-19 21:57:51.213
+AllDays: 149
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,53
+
+2019-12-19 21:57:51.268
+AllDays: 148
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 
+AVGAvgEnergy: 137
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,39
+
+2019-12-19 21:57:51.309
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,37
+
+2019-12-19 21:57:51.333
+AllDays: 146
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,40
+
+2019-12-19 21:57:51.342
+AllDays: 151
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,34
+
+2019-12-19 21:57:51.401
+AllDays: 144
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 71
+DominantGenotype: 
+0 0 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,34
+
+2019-12-19 21:57:51.414
+AllDays: 150
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 138
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,33
+
+2019-12-19 21:57:51.465
+AllDays: 154
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,42
+
+2019-12-19 21:57:51.474
+AllDays: 145
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 54
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,44
+
+2019-12-19 21:57:51.513
+AllDays: 149
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,49
+
+2019-12-19 21:57:51.536
+AllDays: 151
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,44
+
+2019-12-19 21:57:51.555
+AllDays: 156
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,48
+
+2019-12-19 21:57:51.568
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,39
+
+2019-12-19 21:57:51.591
+AllDays: 145
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 3 3 3 4 4 4 4 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,45
+
+2019-12-19 21:57:51.654
+AllDays: 146
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,39
+
+2019-12-19 21:57:51.661
+AllDays: 138
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 5 5 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,45
+
+2019-12-19 21:57:51.669
+AllDays: 152
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,43
+
+2019-12-19 21:57:51.685
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 67
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,43
+
+2019-12-19 21:57:51.695
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,46
+
+2019-12-19 21:57:51.719
+AllDays: 154
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,40
+
+2019-12-19 21:57:51.734
+AllDays: 149
+AVGCreaturesAlive: 24
+AVGCreaturesDead: 12
+AVGrassCount: 161
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 232
+AVGAvgLifespan: 115
+AVGAvgChildren: 1,01
+
+2019-12-19 21:57:51.74
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 1 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,42
+
+2019-12-19 21:57:51.765
+AllDays: 147
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 63
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,51
+
+2019-12-19 21:57:51.77
+AllDays: 150
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,52
+
+2019-12-19 21:57:51.78
+AllDays: 152
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 83
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,28
+
+2019-12-19 21:57:51.812
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 98
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:04.715
+AllDays: 127
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 53
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 5 6 6 6 6 6 6 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:04.85
+AllDays: 121
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 7 
+AVGAvgEnergy: 136
+AVGAvgLifespan: 17
+AVGAvgChildren: 0,30
+
+2019-12-19 22:06:04.881
+AllDays: 130
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 64
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 137
+AVGAvgLifespan: 13
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:04.918
+AllDays: 124
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 59
+DominantGenotype: 
+0 0 1 1 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 16
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:04.933
+AllDays: 123
+AVGCreaturesAlive: 24
+AVGCreaturesDead: 8
+AVGrassCount: 186
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 224
+AVGAvgLifespan: 96
+AVGAvgChildren: 0,95
+
+2019-12-19 22:06:04.958
+AllDays: 126
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 2 2 2 3 3 3 3 3 3 4 4 4 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 162
+AVGAvgLifespan: 11
+AVGAvgChildren: 0,26
+
+2019-12-19 22:06:04.99
+AllDays: 129
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 1
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:05.002
+AllDays: 128
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:05.033
+AllDays: 122
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 5 6 7 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:05.044
+AllDays: 137
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:05.055
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:05.064
+AllDays: 124
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 2
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 92
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,57
+
+2019-12-19 22:06:05.073
+AllDays: 135
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:05.084
+AllDays: 129
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:05.094
+AllDays: 124
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 0 1 2 2 2 2 2 2 2 2 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 103
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:05.126
+AllDays: 129
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 162
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:05.165
+AllDays: 121
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:05.188
+AllDays: 129
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 5 5 6 6 6 6 7 
+AVGAvgEnergy: 138
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:05.275
+AllDays: 130
+AVGCreaturesAlive: 26
+AVGCreaturesDead: 4
+AVGrassCount: 153
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 275
+AVGAvgLifespan: 110
+AVGAvgChildren: 0,61
+
+2019-12-19 22:06:05.304
+AllDays: 130
+AVGCreaturesAlive: 31
+AVGCreaturesDead: 3
+AVGrassCount: 129
+DominantGenotype: 
+0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 232
+AVGAvgLifespan: 121
+AVGAvgChildren: 0,81
+
+2019-12-19 22:06:05.327
+AllDays: 130
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 5 5 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:05.336
+AllDays: 133
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:05.344
+AllDays: 130
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,30
+
+2019-12-19 22:06:05.352
+AllDays: 128
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 68
+DominantGenotype: 
+0 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:05.363
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:05.373
+AllDays: 134
+AVGCreaturesAlive: 30
+AVGCreaturesDead: 6
+AVGrassCount: 124
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 3 4 5 5 5 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 217
+AVGAvgLifespan: 88
+AVGAvgChildren: 1,02
+
+2019-12-19 22:06:05.41
+AllDays: 135
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 61
+DominantGenotype: 
+0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:05.499
+AllDays: 117
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 4 4 5 5 6 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 138
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:05.546
+AllDays: 119
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 3 3 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 153
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,29
+
+2019-12-19 22:06:05.618
+AllDays: 126
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:05.634
+AllDays: 126
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 6 6 6 6 6 7 
+AVGAvgEnergy: 107
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,52
+
+2019-12-19 22:06:05.641
+AllDays: 138
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:05.661
+AllDays: 129
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:05.666
+AllDays: 130
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:05.673
+AllDays: 133
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:05.679
+AllDays: 138
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:05.726
+AllDays: 127
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:05.796
+AllDays: 133
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 1 1 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 103
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:05.803
+AllDays: 131
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 57
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:05.809
+AllDays: 120
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 1 2 2 3 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:05.87
+AllDays: 127
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:05.876
+AllDays: 135
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:05.924
+AllDays: 122
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 2 3 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:06.058
+AllDays: 126
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 0 0 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 155
+AVGAvgLifespan: 17
+AVGAvgChildren: 0,29
+
+2019-12-19 22:06:06.069
+AllDays: 118
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:06.075
+AllDays: 129
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:06.084
+AllDays: 126
+AVGCreaturesAlive: 29
+AVGCreaturesDead: 6
+AVGrassCount: 138
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 189
+AVGAvgLifespan: 85
+AVGAvgChildren: 1,00
+
+2019-12-19 22:06:06.089
+AllDays: 122
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:06.095
+AllDays: 127
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:06.099
+AllDays: 125
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:06.106
+AllDays: 130
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:06.114
+AllDays: 134
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 8
+AVGrassCount: 145
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 207
+AVGAvgLifespan: 116
+AVGAvgChildren: 1,00
+
+2019-12-19 22:06:06.152
+AllDays: 129
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:06.156
+AllDays: 135
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 3 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 146
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,27
+
+2019-12-19 22:06:06.181
+AllDays: 127
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:06.187
+AllDays: 131
+AVGCreaturesAlive: 28
+AVGCreaturesDead: 2
+AVGrassCount: 127
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 274
+AVGAvgLifespan: 112
+AVGAvgChildren: 0,76
+
+2019-12-19 22:06:06.197
+AllDays: 127
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:06.202
+AllDays: 140
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:06.274
+AllDays: 126
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:06.278
+AllDays: 139
+AVGCreaturesAlive: 31
+AVGCreaturesDead: 2
+AVGrassCount: 124
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 245
+AVGAvgLifespan: 71
+AVGAvgChildren: 0,84
+
+2019-12-19 22:06:06.284
+AllDays: 139
+AVGCreaturesAlive: 29
+AVGCreaturesDead: 6
+AVGrassCount: 127
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 4 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 207
+AVGAvgLifespan: 108
+AVGAvgChildren: 0,99
+
+2019-12-19 22:06:06.29
+AllDays: 136
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 3 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 146
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,29
+
+2019-12-19 22:06:06.339
+AllDays: 123
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 76
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 1 2 2 3 3 4 4 4 4 4 4 4 4 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 136
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:06.349
+AllDays: 142
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 61
+DominantGenotype: 
+0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 85
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,54
+
+2019-12-19 22:06:06.356
+AllDays: 133
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:06.448
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 4 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:06.466
+AllDays: 136
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 9
+AVGrassCount: 137
+DominantGenotype: 
+0 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 6 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 208
+AVGAvgLifespan: 102
+AVGAvgChildren: 0,97
+
+2019-12-19 22:06:06.485
+AllDays: 139
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 62
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 5 5 5 5 5 6 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:06.513
+AllDays: 137
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 64
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 149
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:06.517
+AllDays: 134
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 78
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:06.522
+AllDays: 126
+AVGCreaturesAlive: 30
+AVGCreaturesDead: 4
+AVGrassCount: 120
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 204
+AVGAvgLifespan: 87
+AVGAvgChildren: 1,00
+
+2019-12-19 22:06:06.527
+AllDays: 137
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:06.55
+AllDays: 123
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:06.554
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:06.558
+AllDays: 137
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 76
+DominantGenotype: 
+0 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:06.562
+AllDays: 127
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,30
+
+2019-12-19 22:06:06.566
+AllDays: 128
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:06.632
+AllDays: 133
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 4 4 4 4 5 5 5 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 130
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:06.636
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:06.641
+AllDays: 138
+AVGCreaturesAlive: 25
+AVGCreaturesDead: 9
+AVGrassCount: 159
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 234
+AVGAvgLifespan: 114
+AVGAvgChildren: 0,88
+
+2019-12-19 22:06:06.646
+AllDays: 144
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:06.65
+AllDays: 134
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 3 4 4 5 5 6 6 6 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:06.654
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 3 3 3 4 4 5 5 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:06.661
+AllDays: 138
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 107
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:06.842
+AllDays: 140
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 136
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:06.846
+AllDays: 135
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 3 3 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:06.863
+AllDays: 135
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:06.885
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:06.889
+AllDays: 141
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 11
+AVGrassCount: 154
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 206
+AVGAvgLifespan: 89
+AVGAvgChildren: 1,16
+
+2019-12-19 22:06:07.038
+AllDays: 136
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 4 5 5 5 6 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:07.043
+AllDays: 139
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 74
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:07.047
+AllDays: 128
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 2 2 2 2 2 3 3 3 4 4 4 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 100
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:07.162
+AllDays: 144
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 2 2 2 2 2 2 3 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:07.186
+AllDays: 142
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:07.195
+AllDays: 127
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 54
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:07.211
+AllDays: 137
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 148
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:07.25
+AllDays: 136
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:07.254
+AllDays: 138
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 3 3 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:07.259
+AllDays: 136
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:07.357
+AllDays: 144
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 7 7 7 
+AVGAvgEnergy: 99
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:07.362
+AllDays: 132
+AVGCreaturesAlive: 30
+AVGCreaturesDead: 3
+AVGrassCount: 123
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 234
+AVGAvgLifespan: 76
+AVGAvgChildren: 0,89
+
+2019-12-19 22:06:07.366
+AllDays: 140
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:07.382
+AllDays: 129
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 65
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:07.386
+AllDays: 142
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:07.391
+AllDays: 130
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:07.402
+AllDays: 135
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 0
+AVGrassCount: 73
+DominantGenotype: 
+0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 159
+AVGAvgLifespan: 16
+AVGAvgChildren: 0,27
+
+2019-12-19 22:06:07.541
+AllDays: 129
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:07.545
+AllDays: 136
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 67
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:07.55
+AllDays: 133
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 9
+AVGrassCount: 139
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 213
+AVGAvgLifespan: 106
+AVGAvgChildren: 0,90
+
+2019-12-19 22:06:07.554
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:07.558
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,54
+
+2019-12-19 22:06:07.562
+AllDays: 132
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 6
+AVGrassCount: 141
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 222
+AVGAvgLifespan: 106
+AVGAvgChildren: 1,01
+
+2019-12-19 22:06:07.567
+AllDays: 133
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 62
+DominantGenotype: 
+0 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:07.571
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 70
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 137
+AVGAvgLifespan: 18
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:07.576
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:07.581
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 23
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:07.587
+AllDays: 130
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:07.591
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:07.595
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 3 4 4 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:07.599
+AllDays: 137
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 76
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 144
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:07.603
+AllDays: 135
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 2 2 2 3 3 3 3 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:07.798
+AllDays: 138
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:07.802
+AllDays: 136
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 138
+AVGAvgLifespan: 18
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:07.806
+AllDays: 130
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:07.877
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:07.883
+AllDays: 135
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 0
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 171
+AVGAvgLifespan: 0
+AVGAvgChildren: 0,20
+
+2019-12-19 22:06:07.888
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 3 3 3 4 4 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:07.892
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 4 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:07.979
+AllDays: 142
+AVGCreaturesAlive: 24
+AVGCreaturesDead: 10
+AVGrassCount: 157
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 6 7 7 7 7 
+AVGAvgEnergy: 238
+AVGAvgLifespan: 121
+AVGAvgChildren: 0,94
+
+2019-12-19 22:06:08.089
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:08.126
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 3 3 3 4 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:08.132
+AllDays: 139
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 147
+AVGAvgLifespan: 18
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:08.138
+AllDays: 144
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 6 7 7 7 7 7 7 
+AVGAvgEnergy: 154
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,27
+
+2019-12-19 22:06:08.142
+AllDays: 142
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 0 1 2 2 2 2 3 3 3 3 3 3 4 4 4 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:08.146
+AllDays: 138
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 23
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:08.255
+AllDays: 147
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 84
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:08.396
+AllDays: 136
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 136
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:08.435
+AllDays: 135
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 67
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:08.44
+AllDays: 139
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,52
+
+2019-12-19 22:06:08.521
+AllDays: 137
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:08.709
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:08.74
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:08.757
+AllDays: 144
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 6
+AVGrassCount: 153
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 205
+AVGAvgLifespan: 91
+AVGAvgChildren: 1,01
+
+2019-12-19 22:06:08.776
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:08.85
+AllDays: 142
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:08.854
+AllDays: 137
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 4 4 4 4 5 5 5 5 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:08.857
+AllDays: 136
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:08.865
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 63
+DominantGenotype: 
+0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:08.868
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:09.035
+AllDays: 138
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 3
+AVGrassCount: 80
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:09.039
+AllDays: 145
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:09.168
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 74
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:09.195
+AllDays: 136
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 130
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:09.345
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 103
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:09.365
+AllDays: 134
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:09.369
+AllDays: 138
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 75
+DominantGenotype: 
+0 0 1 1 1 1 1 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:09.373
+AllDays: 147
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 59
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:09.376
+AllDays: 141
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:09.38
+AllDays: 142
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 107
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:09.383
+AllDays: 135
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:09.503
+AllDays: 136
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 71
+DominantGenotype: 
+0 1 1 1 1 2 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:09.539
+AllDays: 137
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:09.551
+AllDays: 149
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 9
+AVGrassCount: 133
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 4 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 229
+AVGAvgLifespan: 118
+AVGAvgChildren: 1,12
+
+2019-12-19 22:06:09.554
+AllDays: 142
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:09.565
+AllDays: 160
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 107
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:09.568
+AllDays: 147
+AVGCreaturesAlive: 28
+AVGCreaturesDead: 10
+AVGrassCount: 138
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 4 4 5 6 6 6 6 7 7 
+AVGAvgEnergy: 200
+AVGAvgLifespan: 106
+AVGAvgChildren: 1,21
+
+2019-12-19 22:06:09.696
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:09.699
+AllDays: 147
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 8
+AVGrassCount: 123
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 213
+AVGAvgLifespan: 121
+AVGAvgChildren: 0,91
+
+2019-12-19 22:06:09.752
+AllDays: 141
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 1
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 3 4 4 4 4 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:09.756
+AllDays: 137
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:09.894
+AllDays: 148
+AVGCreaturesAlive: 23
+AVGCreaturesDead: 5
+AVGrassCount: 188
+DominantGenotype: 
+0 0 0 1 1 1 2 2 3 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 291
+AVGAvgLifespan: 98
+AVGAvgChildren: 0,78
+
+2019-12-19 22:06:10.011
+AllDays: 142
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 64
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:10.022
+AllDays: 140
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 59
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 98
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,59
+
+2019-12-19 22:06:10.254
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 6 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:10.27
+AllDays: 151
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:10.339
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 1 2 2 3 3 3 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:10.343
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 70
+DominantGenotype: 
+0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 23
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:10.38
+AllDays: 150
+AVGCreaturesAlive: 28
+AVGCreaturesDead: 9
+AVGrassCount: 157
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 4 4 4 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 185
+AVGAvgLifespan: 93
+AVGAvgChildren: 1,09
+
+2019-12-19 22:06:10.494
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 55
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 138
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:10.592
+AllDays: 151
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 52
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:10.644
+AllDays: 146
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 4
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 80
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,62
+
+2019-12-19 22:06:10.842
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 4 5 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,60
+
+2019-12-19 22:06:11.03
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:11.041
+AllDays: 148
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 1 2 2 3 3 3 3 3 4 5 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:11.045
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:11.166
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 6 6 7 
+AVGAvgEnergy: 144
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:11.188
+AllDays: 139
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:11.281
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:11.311
+AllDays: 145
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 4
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 92
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:11.322
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:11.325
+AllDays: 146
+AVGCreaturesAlive: 24
+AVGCreaturesDead: 8
+AVGrassCount: 164
+DominantGenotype: 
+0 0 0 1 1 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 291
+AVGAvgLifespan: 99
+AVGAvgChildren: 1,06
+
+2019-12-19 22:06:11.454
+AllDays: 146
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 3 3 3 4 4 5 5 5 5 6 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:11.485
+AllDays: 141
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:11.488
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:11.529
+AllDays: 143
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 152
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:11.546
+AllDays: 145
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:11.593
+AllDays: 148
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:11.66
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:11.729
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 65
+DominantGenotype: 
+0 0 1 1 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:11.742
+AllDays: 143
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 7
+AVGrassCount: 129
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 3 3 3 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 221
+AVGAvgLifespan: 127
+AVGAvgChildren: 0,98
+
+2019-12-19 22:06:11.8
+AllDays: 146
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:11.81
+AllDays: 146
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:11.82
+AllDays: 149
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 71
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:11.823
+AllDays: 141
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 4 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:11.828
+AllDays: 142
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 3
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 4 5 5 6 6 6 6 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:11.891
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 6 6 6 7 7 7 
+AVGAvgEnergy: 137
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:12.003
+AllDays: 145
+AVGCreaturesAlive: 25
+AVGCreaturesDead: 5
+AVGrassCount: 158
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 3 3 4 4 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 277
+AVGAvgLifespan: 99
+AVGAvgChildren: 0,86
+
+2019-12-19 22:06:12.017
+AllDays: 145
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 79
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:12.043
+AllDays: 152
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:12.069
+AllDays: 156
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 4 4 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:12.129
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 70
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 103
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,58
+
+2019-12-19 22:06:12.224
+AllDays: 150
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 3
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 95
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,54
+
+2019-12-19 22:06:12.291
+AllDays: 146
+AVGCreaturesAlive: 26
+AVGCreaturesDead: 9
+AVGrassCount: 140
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 241
+AVGAvgLifespan: 113
+AVGAvgChildren: 1,20
+
+2019-12-19 22:06:12.382
+AllDays: 145
+AVGCreaturesAlive: 30
+AVGCreaturesDead: 3
+AVGrassCount: 139
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 190
+AVGAvgLifespan: 96
+AVGAvgChildren: 0,92
+
+2019-12-19 22:06:12.395
+AllDays: 146
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 5 5 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:12.506
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 57
+DominantGenotype: 
+0 0 1 1 1 1 1 1 1 1 1 2 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:12.544
+AllDays: 156
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:12.648
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,30
+
+2019-12-19 22:06:12.655
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 70
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,64
+
+2019-12-19 22:06:12.687
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 4 4 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:12.71
+AllDays: 157
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 1 1 1 2 2 2 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,52
+
+2019-12-19 22:06:12.783
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 0 1 2 2 2 2 3 3 3 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:12.795
+AllDays: 152
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 2 2 2 2 3 3 3 4 4 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:12.808
+AllDays: 149
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 3
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:12.814
+AllDays: 158
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:12.919
+AllDays: 154
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:13.022
+AllDays: 154
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 10
+AVGrassCount: 157
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 192
+AVGAvgLifespan: 117
+AVGAvgChildren: 1,35
+
+2019-12-19 22:06:13.1
+AllDays: 157
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:13.155
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:13.174
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:13.222
+AllDays: 163
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:13.276
+AllDays: 151
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 90
+DominantGenotype: 
+0 0 0 0 1 1 2 2 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:13.34
+AllDays: 151
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:13.384
+AllDays: 152
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:13.517
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 2 2 3 3 3 3 3 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 103
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,57
+
+2019-12-19 22:06:13.573
+AllDays: 154
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 3 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:13.652
+AllDays: 152
+AVGCreaturesAlive: 28
+AVGCreaturesDead: 7
+AVGrassCount: 160
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 2 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 207
+AVGAvgLifespan: 96
+AVGAvgChildren: 1,03
+
+2019-12-19 22:06:13.722
+AllDays: 151
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 4 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:13.782
+AllDays: 157
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 82
+DominantGenotype: 
+0 0 0 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:13.786
+AllDays: 151
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:13.836
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:13.876
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:13.878
+AllDays: 152
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:13.881
+AllDays: 150
+AVGCreaturesAlive: 22
+AVGCreaturesDead: 13
+AVGrassCount: 196
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 258
+AVGAvgLifespan: 117
+AVGAvgChildren: 1,24
+
+2019-12-19 22:06:13.884
+AllDays: 155
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 3 3 4 4 4 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:13.887
+AllDays: 151
+AVGCreaturesAlive: 24
+AVGCreaturesDead: 9
+AVGrassCount: 156
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 5 5 6 7 7 7 7 7 7 
+AVGAvgEnergy: 282
+AVGAvgLifespan: 132
+AVGAvgChildren: 0,71
+
+2019-12-19 22:06:13.889
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 3 4 4 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:13.892
+AllDays: 151
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 2 2 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:13.897
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:13.9
+AllDays: 152
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:13.989
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 136
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:13.993
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:14.1
+AllDays: 153
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 81
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:14.105
+AllDays: 154
+AVGCreaturesAlive: 28
+AVGCreaturesDead: 5
+AVGrassCount: 142
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 2 2 3 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 245
+AVGAvgLifespan: 112
+AVGAvgChildren: 0,81
+
+2019-12-19 22:06:14.194
+AllDays: 154
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:14.241
+AllDays: 154
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 80
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 4 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:14.247
+AllDays: 152
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 3 3 3 3 3 3 3 4 4 5 5 5 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:14.29
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:14.34
+AllDays: 158
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 1 2 3 3 3 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:14.37
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:14.438
+AllDays: 148
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 130
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:14.481
+AllDays: 154
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 96
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:14.564
+AllDays: 152
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 70
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:14.696
+AllDays: 148
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,63
+
+2019-12-19 22:06:14.747
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:14.784
+AllDays: 160
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 78
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:14.859
+AllDays: 152
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:14.917
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:14.952
+AllDays: 152
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 3 3 3 4 4 4 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:15.067
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 137
+AVGAvgLifespan: 19
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:15.208
+AllDays: 154
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:15.246
+AllDays: 155
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 3 3 4 4 5 5 5 5 6 6 6 6 6 6 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:15.288
+AllDays: 154
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:15.385
+AllDays: 151
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 3 3 4 4 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:15.443
+AllDays: 150
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 4 4 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 45
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:15.51
+AllDays: 148
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 1 1 1 2 2 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:15.595
+AllDays: 154
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,56
+
+2019-12-19 22:06:15.729
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 2 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:15.781
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 4 4 4 4 5 5 5 5 5 5 5 6 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:15.815
+AllDays: 154
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:15.818
+AllDays: 154
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 148
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:15.917
+AllDays: 149
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 6 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:15.979
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 3 3 3 4 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 97
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:16.067
+AllDays: 157
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 2 3 4 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:16.109
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:16.186
+AllDays: 149
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 2
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 2 3 3 3 3 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 96
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:16.34
+AllDays: 147
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:16.425
+AllDays: 151
+AVGCreaturesAlive: 24
+AVGCreaturesDead: 17
+AVGrassCount: 179
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 214
+AVGAvgLifespan: 101
+AVGAvgChildren: 1,60
+
+2019-12-19 22:06:16.561
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 4 4 4 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:16.606
+AllDays: 155
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 7 
+AVGAvgEnergy: 130
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:16.683
+AllDays: 153
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:16.717
+AllDays: 149
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 61
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:16.986
+AllDays: 152
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 97
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:16.989
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 3 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:16.993
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:17.012
+AllDays: 146
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 6 6 6 6 6 6 6 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:17.209
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 1 2 2 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,52
+
+2019-12-19 22:06:17.3
+AllDays: 154
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:17.397
+AllDays: 147
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 67
+DominantGenotype: 
+0 0 1 1 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 4 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:17.461
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:17.579
+AllDays: 154
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:17.67
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:17.749
+AllDays: 146
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:17.785
+AllDays: 144
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:17.805
+AllDays: 143
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:17.813
+AllDays: 150
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 6 7 7 7 
+AVGAvgEnergy: 107
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:17.821
+AllDays: 148
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:17.825
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:17.828
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 7 
+AVGAvgEnergy: 147
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:17.831
+AllDays: 152
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:17.834
+AllDays: 150
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:17.971
+AllDays: 144
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:17.979
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 76
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:17.982
+AllDays: 151
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:17.986
+AllDays: 153
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:17.989
+AllDays: 147
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 4 4 4 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:17.992
+AllDays: 156
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 2 3 3 3 3 4 4 4 4 4 5 5 6 6 7 7 7 
+AVGAvgEnergy: 144
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:17.995
+AllDays: 152
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:17.998
+AllDays: 150
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:18.001
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 1 1 1 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:18.004
+AllDays: 146
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:18.059
+AllDays: 148
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 4 4 5 5 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:18.066
+AllDays: 151
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 76
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 148
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,29
+
+2019-12-19 22:06:18.078
+AllDays: 149
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:18.103
+AllDays: 148
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:18.185
+AllDays: 148
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:18.257
+AllDays: 143
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:18.298
+AllDays: 153
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:18.328
+AllDays: 145
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:18.35
+AllDays: 153
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:18.362
+AllDays: 150
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:18.368
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 73
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 4 4 5 6 6 6 6 6 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:18.372
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 70
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:18.559
+AllDays: 150
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,30
+
+2019-12-19 22:06:18.562
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 78
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,29
+
+2019-12-19 22:06:18.566
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 3 3 3 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:18.569
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:18.573
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:18.577
+AllDays: 157
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:18.58
+AllDays: 148
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 0 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:18.583
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:18.586
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:18.589
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:18.718
+AllDays: 151
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 2 2 2 3 3 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:18.721
+AllDays: 153
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 4 4 4 4 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:18.724
+AllDays: 163
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:18.727
+AllDays: 154
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 3 3 3 4 4 4 4 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 23
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:18.922
+AllDays: 148
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 2 2 2 3 3 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 144
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:18.967
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:18.985
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 3 3 4 4 4 4 4 4 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,27
+
+2019-12-19 22:06:19.003
+AllDays: 159
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 0 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:19.008
+AllDays: 153
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:19.012
+AllDays: 156
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 2 2 2 2 3 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 46
+AVGAvgChildren: 0,34
+
+2019-12-19 22:06:19.016
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:19.019
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 154
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,28
+
+2019-12-19 22:06:19.023
+AllDays: 158
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:19.027
+AllDays: 159
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:19.273
+AllDays: 156
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:19.277
+AllDays: 161
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 4 4 4 4 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:19.281
+AllDays: 155
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:19.284
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 76
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:19.288
+AllDays: 156
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:19.291
+AllDays: 159
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:19.295
+AllDays: 152
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:19.298
+AllDays: 158
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:19.301
+AllDays: 153
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:19.304
+AllDays: 149
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 5 5 6 6 6 6 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:19.585
+AllDays: 152
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 4 4 5 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 25
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:19.657
+AllDays: 153
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 3 3 4 4 4 4 5 5 5 5 5 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:19.698
+AllDays: 161
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:19.715
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:19.724
+AllDays: 158
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 8
+AVGrassCount: 154
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 199
+AVGAvgLifespan: 128
+AVGAvgChildren: 1,16
+
+2019-12-19 22:06:19.766
+AllDays: 156
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 0 0 0 0 0 1 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:19.788
+AllDays: 156
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 2 2 2 3 3 3 4 4 5 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 155
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,29
+
+2019-12-19 22:06:20.085
+AllDays: 159
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 71
+DominantGenotype: 
+0 0 1 1 1 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:20.192
+AllDays: 153
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:20.22
+AllDays: 143
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 5 5 6 6 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:20.255
+AllDays: 152
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 67
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:20.271
+AllDays: 153
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:20.28
+AllDays: 151
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:20.284
+AllDays: 161
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 103
+AVGAvgLifespan: 45
+AVGAvgChildren: 0,57
+
+2019-12-19 22:06:20.287
+AllDays: 159
+AVGCreaturesAlive: 30
+AVGCreaturesDead: 6
+AVGrassCount: 131
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 200
+AVGAvgLifespan: 104
+AVGAvgChildren: 1,12
+
+2019-12-19 22:06:20.29
+AllDays: 158
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 153
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,30
+
+2019-12-19 22:06:20.54
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 5 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:20.544
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 136
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:20.547
+AllDays: 162
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 150
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,29
+
+2019-12-19 22:06:20.551
+AllDays: 159
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:20.555
+AllDays: 160
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:20.558
+AllDays: 161
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 81
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 3 3 3 4 4 4 5 5 6 6 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:20.562
+AllDays: 157
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,54
+
+2019-12-19 22:06:20.565
+AllDays: 162
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 3 4 4 5 5 5 5 5 6 7 7 7 7 
+AVGAvgEnergy: 98
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:20.568
+AllDays: 164
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 46
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:20.685
+AllDays: 155
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:20.871
+AllDays: 153
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 99
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:20.953
+AllDays: 161
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:21.006
+AllDays: 159
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 4 4 4 4 5 5 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:21.065
+AllDays: 158
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:21.132
+AllDays: 155
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 12
+AVGrassCount: 140
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 3 3 3 4 4 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 193
+AVGAvgLifespan: 109
+AVGAvgChildren: 1,29
+
+2019-12-19 22:06:21.37
+AllDays: 159
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 3 3 3 3 4 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:21.465
+AllDays: 156
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:21.516
+AllDays: 157
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 57
+DominantGenotype: 
+0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:21.546
+AllDays: 158
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:21.563
+AllDays: 160
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 4 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:21.57
+AllDays: 155
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:21.577
+AllDays: 161
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 3
+AVGrassCount: 100
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:21.58
+AllDays: 153
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 3 3 3 4 4 4 4 4 4 4 4 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:21.773
+AllDays: 163
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:21.811
+AllDays: 159
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:21.84
+AllDays: 158
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 3 3 3 3 4 4 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:21.859
+AllDays: 159
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 3
+AVGrassCount: 90
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:21.863
+AllDays: 159
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 94
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:21.866
+AllDays: 160
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:21.87
+AllDays: 159
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:21.874
+AllDays: 159
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:21.98
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 3 3 3 3 4 4 5 5 5 5 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:22.137
+AllDays: 157
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:22.239
+AllDays: 157
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 2 2 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:22.295
+AllDays: 161
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 146
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:22.325
+AllDays: 156
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 4 4 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,52
+
+2019-12-19 22:06:22.344
+AllDays: 166
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 97
+AVGAvgLifespan: 49
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:22.354
+AllDays: 159
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,39
+
+2019-12-19 22:06:22.359
+AllDays: 160
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 135
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:22.363
+AllDays: 158
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:22.585
+AllDays: 164
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 3 3 4 5 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:22.589
+AllDays: 163
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 2 2 3 3 3 4 4 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:22.746
+AllDays: 161
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:22.814
+AllDays: 156
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 75
+DominantGenotype: 
+0 1 1 1 1 1 2 2 2 2 2 2 2 3 3 3 4 4 4 5 5 6 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,36
+
+2019-12-19 22:06:22.88
+AllDays: 165
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 3 3 3 4 4 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:22.907
+AllDays: 166
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:22.944
+AllDays: 157
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:22.956
+AllDays: 165
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 46
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:22.96
+AllDays: 161
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:22.963
+AllDays: 163
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 3 3 3 3 4 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:22.967
+AllDays: 162
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 82
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,54
+
+2019-12-19 22:06:23.216
+AllDays: 163
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 65
+DominantGenotype: 
+0 0 1 1 1 1 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,37
+
+2019-12-19 22:06:23.348
+AllDays: 158
+AVGCreaturesAlive: 11
+AVGCreaturesDead: 2
+AVGrassCount: 83
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 172
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,33
+
+2019-12-19 22:06:23.45
+AllDays: 167
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:23.49
+AllDays: 168
+AVGCreaturesAlive: 21
+AVGCreaturesDead: 14
+AVGrassCount: 206
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 312
+AVGAvgLifespan: 120
+AVGAvgChildren: 0,87
+
+2019-12-19 22:06:23.521
+AllDays: 170
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:23.53
+AllDays: 165
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,38
+
+2019-12-19 22:06:23.538
+AllDays: 161
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 6 6 6 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:23.541
+AllDays: 166
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 78
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 161
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:23.545
+AllDays: 170
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 65
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:23.739
+AllDays: 162
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 70
+DominantGenotype: 
+0 0 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:23.942
+AllDays: 171
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 78
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 2 2 2 2 2 2 3 3 4 4 4 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 102
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:24.006
+AllDays: 169
+AVGCreaturesAlive: 25
+AVGCreaturesDead: 12
+AVGrassCount: 150
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 4 4 5 5 5 5 5 6 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 223
+AVGAvgLifespan: 120
+AVGAvgChildren: 1,24
+
+2019-12-19 22:06:24.064
+AllDays: 170
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 1 2 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 31
+AVGAvgChildren: 0,32
+
+2019-12-19 22:06:24.12
+AllDays: 178
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 6 6 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 45
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:24.145
+AllDays: 172
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 3 3 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:24.153
+AllDays: 171
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,62
+
+2019-12-19 22:06:24.16
+AllDays: 178
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 2 2 3 3 3 3 3 4 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:24.164
+AllDays: 168
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 4 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:24.296
+AllDays: 174
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 73
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 46
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:24.347
+AllDays: 178
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:24.402
+AllDays: 172
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,42
+
+2019-12-19 22:06:24.567
+AllDays: 178
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 72
+DominantGenotype: 
+0 1 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 29
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:24.605
+AllDays: 174
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 3 3 4 4 4 4 4 4 4 4 4 4 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,51
+
+2019-12-19 22:06:24.671
+AllDays: 172
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,54
+
+2019-12-19 22:06:24.728
+AllDays: 178
+AVGCreaturesAlive: 29
+AVGCreaturesDead: 7
+AVGrassCount: 133
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 212
+AVGAvgLifespan: 140
+AVGAvgChildren: 0,92
+
+2019-12-19 22:06:24.756
+AllDays: 176
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 137
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,35
+
+2019-12-19 22:06:24.766
+AllDays: 172
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 90
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:24.77
+AllDays: 181
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:24.773
+AllDays: 177
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 4
+AVGrassCount: 54
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 4 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,56
+
+2019-12-19 22:06:24.776
+AllDays: 176
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 59
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 32
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:24.779
+AllDays: 170
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 2
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 3 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:25.061
+AllDays: 177
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 59
+DominantGenotype: 
+0 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,50
+
+2019-12-19 22:06:25.064
+AllDays: 174
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 117
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,54
+
+2019-12-19 22:06:25.068
+AllDays: 176
+AVGCreaturesAlive: 28
+AVGCreaturesDead: 8
+AVGrassCount: 146
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 191
+AVGAvgLifespan: 121
+AVGAvgChildren: 1,22
+
+2019-12-19 22:06:25.072
+AllDays: 179
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 46
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:25.077
+AllDays: 180
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 76
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 4 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 46
+AVGAvgChildren: 0,56
+
+2019-12-19 22:06:25.08
+AllDays: 176
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 37
+AVGAvgChildren: 0,43
+
+2019-12-19 22:06:25.083
+AllDays: 171
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 30
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:25.086
+AllDays: 176
+AVGCreaturesAlive: 24
+AVGCreaturesDead: 15
+AVGrassCount: 173
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 217
+AVGAvgLifespan: 133
+AVGAvgChildren: 1,44
+
+2019-12-19 22:06:25.09
+AllDays: 184
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 50
+AVGAvgChildren: 0,46
+
+2019-12-19 22:06:25.094
+AllDays: 171
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 69
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 38
+AVGAvgChildren: 0,40
+
+2019-12-19 22:06:25.195
+AllDays: 176
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 34
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:25.314
+AllDays: 183
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 33
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:25.409
+AllDays: 175
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 4
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 1 1 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,57
+
+2019-12-19 22:06:25.503
+AllDays: 180
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 3
+AVGrassCount: 81
+DominantGenotype: 
+0 0 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 150
+AVGAvgLifespan: 41
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:25.559
+AllDays: 180
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:25.591
+AllDays: 179
+AVGCreaturesAlive: 26
+AVGCreaturesDead: 9
+AVGrassCount: 183
+DominantGenotype: 
+0 0 0 1 2 2 2 2 2 2 2 3 3 3 4 4 4 4 5 5 6 6 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 227
+AVGAvgLifespan: 128
+AVGAvgChildren: 1,15
+
+2019-12-19 22:06:25.618
+AllDays: 175
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,53
+
+2019-12-19 22:06:25.637
+AllDays: 182
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 73
+DominantGenotype: 
+0 0 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:25.645
+AllDays: 182
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 80
+DominantGenotype: 
+0 0 0 0 0 0 0 0 0 1 2 2 2 2 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:25.649
+AllDays: 175
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,47
+
+2019-12-19 22:06:25.82
+AllDays: 172
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 4 4 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 147
+AVGAvgLifespan: 35
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:25.824
+AllDays: 182
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 5 5 5 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:25.831
+AllDays: 170
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 3
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 90
+AVGAvgLifespan: 39
+AVGAvgChildren: 0,55
+
+2019-12-19 22:06:25.84
+AllDays: 183
+AVGCreaturesAlive: 27
+AVGCreaturesDead: 9
+AVGrassCount: 155
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 242
+AVGAvgLifespan: 125
+AVGAvgChildren: 0,97
+
+2019-12-19 22:06:25.981
+AllDays: 182
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 2
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 3 3 3 3 3 3 3 3 4 5 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 50
+AVGAvgChildren: 0,45
+
+2019-12-19 22:06:26.106
+AllDays: 176
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 44
+AVGAvgChildren: 0,48
+
+2019-12-19 22:06:26.193
+AllDays: 181
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,58
+
+2019-12-19 22:06:26.227
+AllDays: 174
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 47
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:26.263
+AllDays: 175
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 5 6 6 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,52
+
+2019-12-19 22:06:26.29
+AllDays: 178
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 45
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:26.308
+AllDays: 181
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 83
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,31
+
+2019-12-19 22:06:26.313
+AllDays: 176
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 67
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 43
+AVGAvgChildren: 0,41
+
+2019-12-19 22:06:26.455
+AllDays: 187
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 2
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 42
+AVGAvgChildren: 0,44
+
+2019-12-19 22:06:26.598
+AllDays: 178
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 1 2 3 3 3 3 4 4 4 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 40
+AVGAvgChildren: 0,49
+
+2019-12-19 22:06:26.691
+AllDays: 176
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 46
+AVGAvgChildren: 0,43
+
+2019-12-19 22:12:32.118
+AllDays: 286
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 3 3 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 64
+AVGAvgChildren: 0,67
+
+2019-12-19 22:12:32.243
+AllDays: 296
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 69
+AVGAvgChildren: 0,55
+
+2019-12-19 22:12:32.269
+AllDays: 307
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 6
+AVGrassCount: 83
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 61
+AVGAvgChildren: 0,56
+
+2019-12-19 22:12:32.289
+AllDays: 298
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 7
+AVGrassCount: 81
+DominantGenotype: 
+0 0 1 1 1 2 2 2 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 61
+AVGAvgChildren: 0,76
+
+2019-12-19 22:12:32.303
+AllDays: 299
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 81
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 66
+AVGAvgChildren: 0,52
+
+2019-12-19 22:12:32.315
+AllDays: 303
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 4
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 49
+AVGAvgChildren: 0,60
+
+2019-12-19 22:12:32.326
+AllDays: 298
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 69
+AVGAvgChildren: 0,59
+
+2019-12-19 22:12:32.358
+AllDays: 302
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 6
+AVGrassCount: 76
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 60
+AVGAvgChildren: 0,55
+
+2019-12-19 22:12:32.377
+AllDays: 310
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 4
+AVGrassCount: 86
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 61
+AVGAvgChildren: 0,54
+
+2019-12-19 22:12:32.402
+AllDays: 302
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 4
+AVGrassCount: 97
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 76
+AVGAvgChildren: 0,47
+
+2019-12-19 22:12:32.419
+AllDays: 298
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 83
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 66
+AVGAvgChildren: 0,37
+
+2019-12-19 22:12:32.429
+AllDays: 295
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 65
+AVGAvgChildren: 0,45
+
+2019-12-19 22:12:32.439
+AllDays: 300
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 6
+AVGrassCount: 79
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 61
+AVGAvgChildren: 0,64
+
+2019-12-19 22:12:32.473
+AllDays: 301
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 87
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 63
+AVGAvgChildren: 0,48
+
+2019-12-19 22:12:32.487
+AllDays: 296
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 4
+AVGrassCount: 97
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 60
+AVGAvgChildren: 0,54
+
+2019-12-19 22:12:32.499
+AllDays: 311
+AVGCreaturesAlive: 11
+AVGCreaturesDead: 8
+AVGrassCount: 95
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 63
+AVGAvgChildren: 0,65
+
+2019-12-19 22:12:32.518
+AllDays: 297
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 7
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 62
+AVGAvgChildren: 0,70
+
+2019-12-19 22:12:32.534
+AllDays: 307
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 8
+AVGrassCount: 85
+DominantGenotype: 
+0 0 0 0 0 0 0 0 1 1 1 1 2 2 3 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 61
+AVGAvgChildren: 0,66
+
+2019-12-19 22:12:32.545
+AllDays: 307
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 5
+AVGrassCount: 72
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 62
+AVGAvgChildren: 0,49
+
+2019-12-19 22:12:32.579
+AllDays: 296
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 5
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 3 3 3 3 3 3 3 4 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 101
+AVGAvgLifespan: 68
+AVGAvgChildren: 0,54
+
+2019-12-19 22:12:32.593
+AllDays: 296
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 6
+AVGrassCount: 80
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 4 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 114
+AVGAvgLifespan: 61
+AVGAvgChildren: 0,66
+
+2019-12-19 22:12:32.644
+AllDays: 300
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 6
+AVGrassCount: 76
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 2 2 2 2 3 3 3 4 5 5 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 78
+AVGAvgChildren: 0,51
+
+2019-12-19 22:12:32.651
+AllDays: 301
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 6
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 72
+AVGAvgChildren: 0,55
+
+2019-12-19 22:12:32.659
+AllDays: 290
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 6
+AVGrassCount: 82
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 64
+AVGAvgChildren: 0,58
+
+2019-12-19 22:12:32.67
+AllDays: 293
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 70
+AVGAvgChildren: 0,41
+
+2019-12-19 22:12:32.695
+AllDays: 301
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 81
+DominantGenotype: 
+0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 116
+AVGAvgLifespan: 65
+AVGAvgChildren: 0,60
+
+2019-12-19 22:12:32.709
+AllDays: 296
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 8
+AVGrassCount: 94
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 62
+AVGAvgChildren: 0,63
+
+2019-12-19 22:12:32.717
+AllDays: 299
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 7
+AVGrassCount: 81
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 110
+AVGAvgLifespan: 59
+AVGAvgChildren: 0,68
+
+2019-12-19 22:12:32.726
+AllDays: 288
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 6
+AVGrassCount: 103
+DominantGenotype: 
+0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 61
+AVGAvgChildren: 0,65
+
+2019-12-19 22:12:32.734
+AllDays: 294
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 6
+AVGrassCount: 77
+DominantGenotype: 
+0 0 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 65
+AVGAvgChildren: 0,58
+
+2019-12-19 22:12:32.741
+AllDays: 298
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 5
+AVGrassCount: 89
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 71
+AVGAvgChildren: 0,44
+
+2019-12-19 22:12:32.747
+AllDays: 301
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 3
+AVGrassCount: 92
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 60
+AVGAvgChildren: 0,44
+
+2019-12-19 22:12:32.762
+AllDays: 305
+AVGCreaturesAlive: 11
+AVGCreaturesDead: 6
+AVGrassCount: 104
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 70
+AVGAvgChildren: 0,53
+
+2019-12-19 22:12:32.815
+AllDays: 304
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 82
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 67
+AVGAvgChildren: 0,65
+
+2019-12-19 22:12:32.821
+AllDays: 303
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 7
+AVGrassCount: 87
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 3 4 4 4 4 4 4 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 121
+AVGAvgLifespan: 68
+AVGAvgChildren: 0,54
+
+2019-12-19 22:12:32.828
+AllDays: 296
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 75
+AVGAvgChildren: 0,42
+
+2019-12-19 22:12:32.833
+AllDays: 294
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 77
+DominantGenotype: 
+0 1 1 1 2 2 2 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 136
+AVGAvgLifespan: 70
+AVGAvgChildren: 0,45
+
+2019-12-19 22:12:32.841
+AllDays: 299
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 6
+AVGrassCount: 85
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 6 6 6 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 66
+AVGAvgChildren: 0,62
+
+2019-12-19 22:12:32.847
+AllDays: 300
+AVGCreaturesAlive: 11
+AVGCreaturesDead: 6
+AVGrassCount: 96
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 4 5 5 5 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 154
+AVGAvgLifespan: 69
+AVGAvgChildren: 0,55
+
+2019-12-19 22:12:32.862
+AllDays: 292
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 4
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 2 3 3 4 4 5 5 5 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 80
+AVGAvgChildren: 0,52
+
+2019-12-19 22:12:32.87
+AllDays: 295
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 4
+AVGrassCount: 81
+DominantGenotype: 
+0 0 1 1 1 2 2 3 3 3 3 3 3 4 4 4 4 4 4 4 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 72
+AVGAvgChildren: 0,57
+
+2019-12-19 22:12:32.878
+AllDays: 295
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 5
+AVGrassCount: 84
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 125
+AVGAvgLifespan: 66
+AVGAvgChildren: 0,61
+
+2019-12-19 22:12:32.888
+AllDays: 297
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 7
+AVGrassCount: 75
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 3 3 3 4 4 4 4 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 53
+AVGAvgChildren: 0,80
+
+2019-12-19 22:12:32.894
+AllDays: 303
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 71
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 105
+AVGAvgLifespan: 72
+AVGAvgChildren: 0,46
+
+2019-12-19 22:12:32.904
+AllDays: 303
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 70
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 2 2 3 3 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 64
+AVGAvgChildren: 0,57
+
+2019-12-19 22:12:32.911
+AllDays: 290
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 7
+AVGrassCount: 87
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 6 6 7 7 7 
+AVGAvgEnergy: 112
+AVGAvgLifespan: 57
+AVGAvgChildren: 0,72
+
+2019-12-19 22:12:32.936
+AllDays: 300
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 80
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 3 3 4 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 76
+AVGAvgChildren: 0,64
+
+2019-12-19 22:12:32.985
+AllDays: 308
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 5
+AVGrassCount: 77
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 63
+AVGAvgChildren: 0,54
+
+2019-12-19 22:12:33.001
+AllDays: 303
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 7
+AVGrassCount: 76
+DominantGenotype: 
+0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 109
+AVGAvgLifespan: 59
+AVGAvgChildren: 0,68
+
+2019-12-19 22:12:33.072
+AllDays: 304
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 3
+AVGrassCount: 74
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 69
+AVGAvgChildren: 0,46
+
+2019-12-19 22:13:11.65
+AllDays: 101
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 50
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 140
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,36
+
+2019-12-19 22:13:11.762
+AllDays: 94
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 66
+DominantGenotype: 
+0 0 0 0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 5 6 6 7 7 7 7 
+AVGAvgEnergy: 143
+AVGAvgLifespan: 13
+AVGAvgChildren: 0,30
+
+2019-12-19 22:13:11.788
+AllDays: 91
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 4 4 4 4 4 4 5 5 5 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 14
+AVGAvgChildren: 0,33
+
+2019-12-19 22:13:11.812
+AllDays: 101
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 0
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 10
+AVGAvgChildren: 0,38
+
+2019-12-19 22:13:11.843
+AllDays: 98
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 65
+DominantGenotype: 
+0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 130
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,34
+
+2019-12-19 22:13:11.865
+AllDays: 94
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 51
+DominantGenotype: 
+0 0 1 1 1 1 1 1 1 2 2 2 2 2 3 4 4 4 4 5 5 5 5 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 18
+AVGAvgChildren: 0,36
+
+2019-12-19 22:13:11.897
+AllDays: 104
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 144
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,30
+
+2019-12-19 22:13:11.912
+AllDays: 95
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 1
+AVGrassCount: 79
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 3 3 3 3 4 4 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 19
+AVGAvgChildren: 0,34
+
+2019-12-19 22:13:11.926
+AllDays: 92
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 6 7 7 
+AVGAvgEnergy: 166
+AVGAvgLifespan: 11
+AVGAvgChildren: 0,23
+
+2019-12-19 22:13:11.956
+AllDays: 102
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 2
+AVGrassCount: 64
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 2 2 3 3 4 4 4 5 5 5 5 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 156
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,31
+
+2019-12-19 22:13:11.969
+AllDays: 97
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,38
+
+2019-12-19 22:13:11.981
+AllDays: 96
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 142
+AVGAvgLifespan: 14
+AVGAvgChildren: 0,31
+
+2019-12-19 22:13:11.997
+AllDays: 95
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 51
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 19
+AVGAvgChildren: 0,38
+
+2019-12-19 22:13:12.011
+AllDays: 95
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 58
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 3 3 3 4 4 4 4 5 5 5 6 6 6 7 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 19
+AVGAvgChildren: 0,47
+
+2019-12-19 22:13:12.057
+AllDays: 95
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 61
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 144
+AVGAvgLifespan: 13
+AVGAvgChildren: 0,31
+
+2019-12-19 22:13:12.078
+AllDays: 98
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 57
+DominantGenotype: 
+0 0 1 1 1 1 1 2 2 2 2 2 2 3 3 3 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,41
+
+2019-12-19 22:13:12.088
+AllDays: 100
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 7 
+AVGAvgEnergy: 151
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,28
+
+2019-12-19 22:13:12.103
+AllDays: 94
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 1
+AVGrassCount: 51
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 2 3 3 4 4 4 4 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,44
+
+2019-12-19 22:13:12.19
+AllDays: 97
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 68
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 3 3 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 124
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,39
+
+2019-12-19 22:13:12.214
+AllDays: 87
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 51
+DominantGenotype: 
+0 0 0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 4 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 13
+AVGAvgChildren: 0,37
+
+2019-12-19 22:13:12.283
+AllDays: 100
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 1 1 1 2 2 2 2 2 3 3 3 4 4 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 19
+AVGAvgChildren: 0,34
+
+2019-12-19 22:13:12.307
+AllDays: 99
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 0
+AVGrassCount: 50
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 5 6 6 6 7 7 7 
+AVGAvgEnergy: 120
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,39
+
+2019-12-19 22:13:12.321
+AllDays: 103
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 3 3 4 4 4 5 5 6 6 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 14
+AVGAvgChildren: 0,33
+
+2019-12-19 22:13:12.334
+AllDays: 91
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 53
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 2 2 2 3 3 3 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 122
+AVGAvgLifespan: 23
+AVGAvgChildren: 0,39
+
+2019-12-19 22:13:12.342
+AllDays: 94
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 59
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 106
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,49
+
+2019-12-19 22:13:12.349
+AllDays: 90
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 3 3 4 4 4 4 4 4 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,38
+
+2019-12-19 22:13:12.37
+AllDays: 100
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 2 2 3 3 4 4 4 4 5 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 156
+AVGAvgLifespan: 18
+AVGAvgChildren: 0,29
+
+2019-12-19 22:13:12.378
+AllDays: 96
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 51
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 7 7 7 7 7 
+AVGAvgEnergy: 133
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,39
+
+2019-12-19 22:13:12.385
+AllDays: 89
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 3 3 3 3 3 3 4 4 5 5 5 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 126
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,38
+
+2019-12-19 22:13:12.461
+AllDays: 92
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 0
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 119
+AVGAvgLifespan: 15
+AVGAvgChildren: 0,40
+
+2019-12-19 22:13:12.469
+AllDays: 94
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 0
+AVGrassCount: 73
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 6 6 6 7 7 7 7 7 7 
+AVGAvgEnergy: 155
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,26
+
+2019-12-19 22:13:12.564
+AllDays: 94
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 0
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 
+AVGAvgEnergy: 123
+AVGAvgLifespan: 12
+AVGAvgChildren: 0,35
+
+2019-12-19 22:13:12.57
+AllDays: 98
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 1
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 1 1 1 1 1 1 2 2 2 3 3 3 4 4 5 5 5 5 5 5 5 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 93
+AVGAvgLifespan: 26
+AVGAvgChildren: 0,49
+
+2019-12-19 22:13:12.575
+AllDays: 94
+AVGCreaturesAlive: 31
+AVGCreaturesDead: 5
+AVGrassCount: 126
+DominantGenotype: 
+0 0 0 0 0 0 1 1 2 2 2 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 185
+AVGAvgLifespan: 80
+AVGAvgChildren: 1,05
+
+2019-12-19 22:13:12.581
+AllDays: 97
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 53
+DominantGenotype: 
+0 0 0 0 0 1 1 1 2 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 141
+AVGAvgLifespan: 12
+AVGAvgChildren: 0,32
+
+2019-12-19 22:13:12.587
+AllDays: 95
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 2 2 3 3 4 4 4 4 4 4 4 4 5 5 5 5 6 6 6 7 7 7 7 
+AVGAvgEnergy: 127
+AVGAvgLifespan: 19
+AVGAvgChildren: 0,35
+
+2019-12-19 22:13:12.594
+AllDays: 96
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 53
+DominantGenotype: 
+0 0 0 0 1 2 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 7 
+AVGAvgEnergy: 145
+AVGAvgLifespan: 17
+AVGAvgChildren: 0,32
+
+2019-12-19 22:13:12.611
+AllDays: 93
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 51
+DominantGenotype: 
+0 0 1 1 1 1 2 2 3 3 3 4 4 4 5 5 5 5 5 6 6 6 6 6 7 7 7 7 7 7 7 7 
+AVGAvgEnergy: 111
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,45
+
+2019-12-19 22:13:12.619
+AllDays: 93
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 1
+AVGrassCount: 52
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 99
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,47
+
+2019-12-19 22:13:12.663
+AllDays: 85
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 55
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 134
+AVGAvgLifespan: 14
+AVGAvgChildren: 0,36
+
+2019-12-19 22:13:12.695
+AllDays: 90
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 4 4 4 4 4 5 5 5 5 5 5 5 5 6 6 7 
+AVGAvgEnergy: 104
+AVGAvgLifespan: 22
+AVGAvgChildren: 0,46
+
+2019-12-19 22:13:12.727
+AllDays: 96
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 60
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 5 5 5 5 6 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 16
+AVGAvgChildren: 0,37
+
+2019-12-19 22:13:12.755
+AllDays: 94
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 61
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 2 2 2 2 2 2 3 3 4 4 4 5 5 5 5 5 5 6 6 7 7 7 7 
+AVGAvgEnergy: 132
+AVGAvgLifespan: 20
+AVGAvgChildren: 0,37
+
+2019-12-19 22:13:12.765
+AllDays: 97
+AVGCreaturesAlive: 16
+AVGCreaturesDead: 2
+AVGrassCount: 49
+DominantGenotype: 
+0 0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 3 4 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 97
+AVGAvgLifespan: 27
+AVGAvgChildren: 0,48
+
+2019-12-19 22:13:12.772
+AllDays: 93
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 0 1 1 1 2 2 2 2 2 3 3 3 4 4 4 4 4 4 4 5 5 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 151
+AVGAvgLifespan: 14
+AVGAvgChildren: 0,26
+
+2019-12-19 22:13:12.785
+AllDays: 96
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 62
+DominantGenotype: 
+0 0 0 1 1 1 2 2 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 7 7 
+AVGAvgEnergy: 139
+AVGAvgLifespan: 24
+AVGAvgChildren: 0,33
+
+2019-12-19 22:13:12.811
+AllDays: 92
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 0
+AVGrassCount: 63
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 148
+AVGAvgLifespan: 14
+AVGAvgChildren: 0,28
+
+2019-12-19 22:13:12.88
+AllDays: 98
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 0
+AVGrassCount: 65
+DominantGenotype: 
+0 0 1 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 5 5 6 7 7 7 7 7 
+AVGAvgEnergy: 168
+AVGAvgLifespan: 14
+AVGAvgChildren: 0,22
+
+2019-12-19 22:13:12.902
+AllDays: 92
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 1
+AVGrassCount: 57
+DominantGenotype: 
+0 0 0 1 1 1 1 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5 6 6 6 6 6 6 6 7 7 7 
+AVGAvgEnergy: 129
+AVGAvgLifespan: 18
+AVGAvgChildren: 0,39
+
+2019-12-19 22:13:12.907
+AllDays: 95
+AVGCreaturesAlive: 15
+AVGCreaturesDead: 1
+AVGrassCount: 56
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 3 3 3 3 3 3 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 113
+AVGAvgLifespan: 21
+AVGAvgChildren: 0,45
+
+2019-12-20 15:24:11.213
+AllDays: 59
+AVGCreaturesAlive: 34
+AVGCreaturesDead: 0
+AVGrassCount: 92
+DominantGenotype: 
+0 0 0 0 0 1 1 1 1 1 2 2 2 2 3 3 3 4 4 4 4 4 5 5 5 6 6 6 6 6 7 7 
+AVGAvgEnergy: 233
+AVGAvgLifespan: 0
+AVGAvgChildren: 0,80
+
+2019-12-20 15:24:15.293
+AllDays: 1030
+AVGCreaturesAlive: 13
+AVGCreaturesDead: 19
+AVGrassCount: 81
+DominantGenotype: 
+0 0 0 1 1 2 2 2 2 2 3 3 3 3 3 3 4 4 4 5 6 6 6 6 6 6 6 7 7 7 7 7 
+AVGAvgEnergy: 118
+AVGAvgLifespan: 128
+AVGAvgChildren: 1,02
+
+2019-12-20 15:25:19.763
+AllDays: 152
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 3
+AVGrassCount: 69
+DominantGenotype: 
+0 1 2 2 2 2 3 3 3 3 4 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 108
+AVGAvgLifespan: 36
+AVGAvgChildren: 0,52
+
+2019-12-20 15:25:19.773
+AllDays: 113
+AVGCreaturesAlive: 14
+AVGCreaturesDead: 0
+AVGrassCount: 65
+DominantGenotype: 
+0 0 0 0 0 1 1 2 2 2 2 2 3 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 7 7 7 7 
+AVGAvgEnergy: 128
+AVGAvgLifespan: 28
+AVGAvgChildren: 0,35
+
+2019-12-20 15:25:19.787
+AllDays: 248
+AVGCreaturesAlive: 12
+AVGCreaturesDead: 4
+AVGrassCount: 91
+DominantGenotype: 
+0 0 1 1 1 1 1 1 1 1 2 2 2 3 3 3 3 3 4 4 4 4 5 5 5 5 5 6 6 6 7 7 
+AVGAvgEnergy: 131
+AVGAvgLifespan: 58
+AVGAvgChildren: 0,48
+
+2019-12-20 17:16:38.585
+AllDays: 32
+AVGCreaturesAlive: 25
+AVGCreaturesDead: 0
+AVGrassCount: 113
+DominantGenotype: 
+0 0 0 1 1 1 1 1 2 2 2 2 2 3 3 3 3 4 4 5 5 5 5 5 5 6 6 6 6 7 7 7 
+AVGAvgEnergy: 172
+AVGAvgLifespan: 0
+AVGAvgChildren: 0,22
+
+2019-12-20 17:16:42.071
+AllDays: 237
+AVGCreaturesAlive: 18
+AVGCreaturesDead: 16
+AVGrassCount: 134
+DominantGenotype: 
+0 0 0 0 1 1 2 2 2 2 2 2 3 3 3 3 4 4 4 4 4 5 5 6 6 6 6 6 7 7 7 7 
+AVGAvgEnergy: 115
+AVGAvgLifespan: 52
+AVGAvgChildren: 0,39
+

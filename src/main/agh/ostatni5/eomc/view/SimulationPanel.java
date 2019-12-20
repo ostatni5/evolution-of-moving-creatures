@@ -16,6 +16,7 @@ import static org.junit.Assert.assertEquals;
 public class SimulationPanel extends JPanel {
     Options options;
     History history = new History();
+    private boolean runThread= true;
 
     public SimulationPanel(Options options) {
         this.options = options;
@@ -98,7 +99,7 @@ public class SimulationPanel extends JPanel {
 
         Thread simulationLoop = new Thread(() -> {
             try {
-                for (int i = 0; i < options.values[9] && worldMap.stats.creatureCount > 0; i++) {
+                for (int i = 0; i < options.values[9] && worldMap.stats.creatureCount > 0 && runThread; i++) {
                     if (simulationRunning.get()) {
                         worldMap.nextDay();
                         history.addRecord(worldMap.stats);
@@ -182,5 +183,6 @@ public class SimulationPanel extends JPanel {
     public void willBeClosed()
     {
         history.toFile();
+        runThread = false;
     }
 }

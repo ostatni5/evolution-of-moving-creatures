@@ -1,0 +1,13 @@
+{
+  "MapWidth": 30,
+  "MapHeight": 30,
+  "JungleRatio": 2,
+  "CreaturesCount": 20,
+  "GrassCount": 50,
+  "StartEnergy": 200,
+  "DayEnergyCost": 2,
+  "GrassEnergy": 14,
+  "SimulationCount": 1,
+  "SimulationLength": 10000,
+  "CanvasSize": 400
+}

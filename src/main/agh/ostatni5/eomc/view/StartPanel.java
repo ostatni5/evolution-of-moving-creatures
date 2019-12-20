@@ -1,17 +1,20 @@
 package agh.ostatni5.eomc.view;
 
 import agh.ostatni5.eomc.Options;
+import agh.ostatni5.eomc.ReadOptionsJSON;
 
 import javax.swing.*;
 import java.awt.*;
 
 public class StartPanel extends JPanel {
-    private int[] values = {20, 20, 2, 10, 10, 256, 2, 14, 1,10000,400};
-    private Options options = new Options(values);
+    private int[] startValues = {20, 20, 2, 10, 10, 256, 2, 14, 1,10000,400};
     private MainFrame mainFrame;
     private JTextField[] jTextFields;
     private JLabel[] jLabels;
+    private ReadOptionsJSON optionsJSON = new ReadOptionsJSON();
+    private Options options = optionsJSON.getParsedOptions();
     public StartPanel(MainFrame mainFrame) {
+
         this.mainFrame = mainFrame;
         Dimension dimension = new Dimension(400,30*options.names.length);
         setMaximumSize(dimension);

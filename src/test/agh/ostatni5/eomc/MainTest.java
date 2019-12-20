@@ -46,7 +46,7 @@ public class MainTest {
 //            assertEquals(worldMap.creatureCount, worldMap.creatureCount2);
 //        }
 //        System.out.println("Zwierzaki");
-//        for (Object o : worldMap.creaturesMap.entrySet().toArray()) {
+//        for (Object o : worldMap.CreaturesPositionMap.entrySet().toArray()) {
 //            Map.Entry<Vector2d, PriorityQueue<Creature>> pair = (Map.Entry<Vector2d, PriorityQueue<Creature>>) o;
 //            Creature[] ts1 = pair.getValue().toArray(new Creature[0]);
 //            LinkedList<Creature> ts = new LinkedList<Creature>(Arrays.asList(ts1));
@@ -76,7 +76,7 @@ public class MainTest {
 //
 //        }
 //        System.out.println("Zwierzaki");
-//        for (Object o : worldMap.creaturesMap.entrySet().toArray()) {
+//        for (Object o : worldMap.CreaturesPositionMap.entrySet().toArray()) {
 //            Map.Entry<Vector2d, PriorityQueue<Creature>> pair = (Map.Entry<Vector2d, PriorityQueue<Creature>>) o;
 //            Creature[] ts1 = pair.getValue().toArray(new Creature[0]);
 //            LinkedList<Creature> ts = new LinkedList<Creature>(Arrays.asList(ts1));

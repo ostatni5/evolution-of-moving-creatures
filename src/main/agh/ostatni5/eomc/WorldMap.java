@@ -10,16 +10,16 @@ public class WorldMap implements IPositionChangeObserver {
     private int startEnergy = 256;
     private int dayEnergyCost = 2;
     private int grassEnergy = 14;
-    private int creatureCount2 = 0;
+    private int creatureCountTest = 0;
     public StatisticsMap stats = new StatisticsMap(this);
     public Savanna savanna;
     public Jungle jungle;
     int creatureID = 0;
-    Vector2d mapStartVector = new Vector2d(0, 0);
+    private Vector2d mapStartVector = new Vector2d(0, 0);
     Vector2d jungleStartVector = new Vector2d(0, 0);
-    HashMap<Vector2d, Grass> grassMap = new HashMap<>();
-    HashMap<Vector2d, PriorityQueue<Creature>> creaturesMap = new HashMap<>();
-    HashMap<Integer, Creature> aliveCreatures = new HashMap<>();
+    private CreaturesPositionMap creaturesPositionMap = new CreaturesPositionMap();
+    private HashMap<Vector2d, Grass> grassMap = new HashMap<>();
+    private HashMap<Integer, Creature> aliveCreatures = new HashMap<>();
 
     WorldMap(int mapWidth, int mapHeight, int jungleWidth, int jungleHeight) {
         jungleStartVector = mapStartVector.add(new Vector2d((mapWidth - jungleWidth) / 2, (mapHeight - jungleHeight) / 2));
@@ -44,57 +44,47 @@ public class WorldMap implements IPositionChangeObserver {
     public WorldMap(Options options) {
         this(options.values);
     }
-    private WorldMap(int [] opt) {
+
+    private WorldMap(int[] opt) {
         this(opt[0], opt[1], (int) (opt[0] / opt[2]), (int) (opt[0] / opt[2]), opt[3], opt[4], opt[5], opt[6], opt[7]);
     }
 
 
     public void nextDay() {
-        creatureCount2 = 0;
+        creatureCountTest = 0;
         stats.zeroAvg();
-        for (Object o : creaturesMap.entrySet().toArray()) {
+        for (Object o : creaturesPositionMap.entrySet().toArray()) {
             Map.Entry<Vector2d, PriorityQueue<Creature>> pair = (Map.Entry<Vector2d, PriorityQueue<Creature>>) o;
             Vector2d pos = pair.getKey();
             LinkedList<Creature> creatureLinkedList = new LinkedList<Creature>(Arrays.asList(pair.getValue().toArray(new Creature[0])));
-            phaseEat(phaseDeath(creatureLinkedList),pos);
+            phaseEat(phaseDeath(creatureLinkedList), pos);
             phaseBreed(pair.getValue());
             phaseMove(creatureLinkedList);
         }
         phaseStats();
-        jungle.growGrass();
-        savanna.growGrass();
+        growGrass();
     }
 
-    private LinkedList<Creature> phaseDeath(LinkedList<Creature> creatures){
+    private LinkedList<Creature> phaseDeath(LinkedList<Creature> creatures) {
         LinkedList<Creature> ableEat = new LinkedList<Creature>();
         AtomicInteger maxEnergy = new AtomicInteger(1);
         creatures.removeIf((creature -> {
             creature.makeBreedAble();
-            if(creature.isDead())
-            {
-                creature.setDeath(stats.dayCount);
-                remove(creature);
-                aliveCreatures.remove(creature.getId().own);
-                stats.getGenotypeCount().decrement(creature.getGenotype());
-                stats.addDead(creature);
+            if (creature.isDead()) {
+                killCreature(creature);
                 return true;
-            }
-            else
-            {
-                if (creature.getEnergy().value >= maxEnergy.get())
-                {
+            } else {
+                if (creature.getEnergy().value >= maxEnergy.get()) {
                     maxEnergy.set(creature.getEnergy().value);
                     ableEat.add(creature);
                 }
                 return false;
             }
-
         }));
         return ableEat;
     }
 
-    private void  phaseEat(LinkedList<Creature> ableEat,Vector2d pos)
-    {
+    private void phaseEat(LinkedList<Creature> ableEat, Vector2d pos) {
         Grass grass = grassAt(pos);
         if (grass != null) {
             ableEat.forEach((creature) -> {
@@ -104,13 +94,12 @@ public class WorldMap implements IPositionChangeObserver {
         }
     }
 
-    private void phaseBreed(PriorityQueue<Creature> creatures)
-    {
+    private void phaseBreed(PriorityQueue<Creature> creatures) {
         if (creatures.size() >= 2) {
             int i = 0;
             Creature[] parents = new Creature[2];
-            parents[0]= creatures.poll();
-            parents[1]= creatures.poll();
+            parents[0] = creatures.poll();
+            parents[1] = creatures.poll();
             Creature child = parents[0].breedingWith(parents[1], stats.dayCount);
             if (child != null)
                 place(child);
@@ -119,24 +108,23 @@ public class WorldMap implements IPositionChangeObserver {
         }
     }
 
-    private void phaseMove(LinkedList<Creature> creatures)
-    {
+    private void phaseMove(LinkedList<Creature> creatures) {
         for (Creature creature : creatures) {
             if (!creature.getMoved()) {
-                 creature.chooseRotation();
+                creature.chooseRotation();
                 creature.moveForward();
                 creature.getEnergy().loss(dayEnergyCost);
             }
         }
     }
 
-    private void phaseStats(){
-        creaturesMap.values().forEach(creatures -> {
+    private void phaseStats() {
+        creaturesPositionMap.values().forEach(creatures -> {
             for (Creature creature : creatures) {
                 creature.setNotMoved();
                 creature.incrementLifespan();
                 stats.addCreatureStats(creature);
-                creatureCount2++;
+                creatureCountTest++;
             }
         });
         stats.calculateStats();
@@ -147,31 +135,25 @@ public class WorldMap implements IPositionChangeObserver {
         stats.grassCount--;
     }
 
-    private boolean remove(Creature creature) {
-        return remove(creature, creature.getPosition());
+    private void remove(Creature creature) {
+        remove(creature, creature.getPosition());
     }
 
-    private boolean remove(Creature creature, Vector2d pos) {
-        Vector2d tempPos = new Vector2d(pos);
-        ComparatorEnergy comparatorEnergy = new ComparatorEnergy();
-        if (!creaturesMap.get(tempPos).remove(creature)) {
-            for (Creature creature1 : creaturesMap.get(tempPos)) {
-                System.out.println(creature1.getId().own + " " + creature1.equals(creature) + "    " + comparatorEnergy.compare(creature1, creature));
-                if (creature1.equals(creature)) {
-                    System.out.println(creaturesMap.get(tempPos).remove(creature1));
-                }
-            }
-            throw new NullPointerException("Gdzie me zwirze:" + creature.getId().own + "   " + tempPos + " " + creature.getPosition() + " siz " + creaturesMap.get(tempPos).size());
-        }
-        if (creaturesMap.get(tempPos).isEmpty())
-            creaturesMap.remove(tempPos);
+    private void remove(Creature creature, Vector2d pos) {
+        creaturesPositionMap.remove(creature, pos);
         stats.creatureCount--;
-        return true;
+    }
+
+    private void killCreature(Creature creature) {
+        creature.setDeath(stats.dayCount);
+        remove(creature);
+        aliveCreatures.remove(creature.getId().own);
+        stats.addDead(creature);
     }
 
 
     public IMapElement visibleAt(Vector2d v) {
-        return grassMap.get(v) != null ? grassMap.get(v) : creaturesMap.get(v) != null ? (IMapElement) creaturesMap.get(v).peek() : null;
+        return grassMap.get(v) != null ? grassMap.get(v) : creaturesPositionMap.get(v) != null ? (IMapElement) creaturesPositionMap.get(v).peek() : null;
     }
 
     public Grass grassAt(Vector2d v) {
@@ -179,7 +161,7 @@ public class WorldMap implements IPositionChangeObserver {
     }
 
     public PriorityQueue<Creature> creaturesAt(Vector2d v) {
-        return creaturesMap.get(v);
+        return creaturesPositionMap.get(v);
     }
 
 
@@ -191,12 +173,8 @@ public class WorldMap implements IPositionChangeObserver {
     }
 
     public boolean place(Creature creature) {
-        Vector2d pos = creature.getPosition();
-        if (creaturesAt(pos) == null) {
-            creaturesMap.put(pos, new PriorityQueue<Creature>(new ComparatorEnergy()));
-        }
-        creaturesAt(pos).add(creature);
-        if(aliveCreatures.put(creature.getId().own, creature)==null)
+        creaturesPositionMap.add(creature);
+        if (aliveCreatures.put(creature.getId().own, creature) == null)
             stats.getGenotypeCount().increment(creature.getGenotype());
         stats.creatureCount++;
         return true;
@@ -213,17 +191,20 @@ public class WorldMap implements IPositionChangeObserver {
 
     public void generateInitialGrass(int a) {
         for (int i = 0; i < a; i++) {
-            jungle.growGrass();
-            savanna.growGrass();
+            growGrass();
         }
     }
 
     public void generateInitialCreatures(int a) {
         for (int i = 0; i < a; i++) {
             Creature creature = new Creature(this, random.randomPos(mapRec.corners[0], mapRec.corners[2]), startEnergy);
-//            Creature creature = new Creature(this, new Vector2d(0, 0), startEnergy);
             place(creature);
         }
+    }
+
+    private void growGrass() {
+        jungle.growGrass();
+        savanna.growGrass();
     }
 
 
@@ -253,7 +234,7 @@ public class WorldMap implements IPositionChangeObserver {
     }
 
     public Creature[] getAllVisibleCreatures() {
-        Object[] o = creaturesMap.values().toArray();
+        Object[] o = creaturesPositionMap.values().toArray();
         Creature[] creatures = new Creature[o.length];
         for (int i = 0; i < o.length; i++) {
             creatures[i] = ((PriorityQueue<Creature>) o[i]).peek();
