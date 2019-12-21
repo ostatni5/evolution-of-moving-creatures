@@ -1,9 +1,9 @@
 {
-  "MapWidth": 30,
-  "MapHeight": 30,
+  "MapWidth": 20,
+  "MapHeight": 20,
   "SavannaToJungle": 2,
-  "CreaturesCount": 20,
-  "GrassCount": 50,
+  "CreaturesCount": 22,
+  "GrassCount": 52,
   "StartEnergy": 200,
   "DayEnergyCost": 2,
   "GrassEnergy": 14,

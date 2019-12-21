@@ -14,9 +14,9 @@ public class GameCanvas extends JPanel {
     private StatisticsCreature statisticsCreature;
     private WorldMap worldMap;
     private Color grassColor = new Color(167, 219, 55);
-    private Color savannaColor = new Color(235, 189, 52);
+    private Color savannaColor = new Color(202, 154, 48);
     private Color jungleColor = new Color(80, 148, 12);
-    private Color creatureColor = new Color(97, 53, 0);
+    private Color creatureColor = new Color(97, 12, 14);
     private HSLColor hslColor = new HSLColor(creatureColor);
     private boolean showDominant = false;
 
@@ -84,7 +84,7 @@ public class GameCanvas extends JPanel {
 
     private void paintGrass(Graphics g, Vector2d v) {
         g.setColor(grassColor);
-        g.fillRect(resize(v.x), resize(v.y), tileSize, tileSize);
+        g.fillRect(resize(v.x)+1, resize(v.y)+1, tileSize-2, tileSize-2);
 
     }
 

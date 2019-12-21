@@ -51,8 +51,6 @@ public class WorldMap implements IPositionChangeObserver {
     private WorldMap(int[] opt) {
         this(opt[0], opt[1], Math.max((int) (opt[0] / opt[2]),1), Math.max((int) (opt[1] / opt[2]),1), opt[3], opt[4], opt[5], opt[6], opt[7]);
     }
-
-
     public void nextDay() {
         creatureCountTest = 0;
         stats.zeroAvg();
