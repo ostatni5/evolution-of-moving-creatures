@@ -1,7 +1,7 @@
 {
   "MapWidth": 30,
   "MapHeight": 30,
-  "JungleRatio": 2,
+  "SavannaToJungle": 2,
   "CreaturesCount": 20,
   "GrassCount": 50,
   "StartEnergy": 200,

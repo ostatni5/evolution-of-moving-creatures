@@ -26,7 +26,7 @@ public class History {
 
     public void toFile(){
         calculateSummary();
-        WriteFile writeFile = new WriteFile("logs/log.txt");
+        WriteFile writeFile = new WriteFile("logs/history.log");
         try {
             writeFile.writeToFile(timestamp.toString(),true);
             writeFile.writeToFile(sumOfAllRecords.toString(),true);

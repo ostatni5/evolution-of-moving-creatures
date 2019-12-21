@@ -14,7 +14,7 @@ public class MainFrame extends JFrame {
         setVisible(true);
         startPanel = new StartPanel(this);
         add(startPanel);
-        clearButton = new JButton("CLEAR SIMULATIONS");
+        clearButton = new JButton("CLEAR SIMULATIONS AND SAVE HISTORY");
         add(clearButton);
         clearButton.setVisible(false);
         clearButton.addActionListener(actionEvent -> {

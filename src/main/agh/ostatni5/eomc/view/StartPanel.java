@@ -8,7 +8,7 @@ import java.awt.*;
 
 public class StartPanel extends JPanel {
     private int[] startValues = {20, 20, 2, 10, 10, 256, 2, 14, 1,10000,400};
-    private JTextField[] jTextFields;
+    private JSpinner[] jSpinners;
     private JLabel[] jLabels;
     private ReadOptionsJSON optionsJSON = new ReadOptionsJSON();
     private Options options = optionsJSON.getParsedOptions();
@@ -18,13 +18,12 @@ public class StartPanel extends JPanel {
         setMaximumSize(dimension);
         setLayout(new GridLayout(0, 2));
         jLabels = new JLabel[Options.names.length];
-        jTextFields = new JTextField[Options.names.length];
+        jSpinners = new JSpinner[Options.names.length];
         for (int i = 0; i < Options.names.length; i++) {
             jLabels[i] = new JLabel(Options.names[i]);
-            jTextFields[i] = new JTextField();
-            jTextFields[i].setText(String.valueOf(options.values[i]));
+            jSpinners[i] = new JSpinner(new SpinnerNumberModel(options.values[i],1,100000,1));
             add(jLabels[i]);
-            add(jTextFields[i]);
+            add(jSpinners[i]);
         }
         JButton jButton = new JButton("Launch");
         add(jButton);
@@ -36,8 +35,8 @@ public class StartPanel extends JPanel {
     }
 
     private void getValues(){
-        for (int i = 0; i < jTextFields.length; i++) {
-            options.values[i] = Integer.parseInt(jTextFields[i].getText());
+        for (int i = 0; i < jSpinners.length; i++) {
+            options.values[i] = (int) jSpinners[i].getValue();
         }
     }
 }
