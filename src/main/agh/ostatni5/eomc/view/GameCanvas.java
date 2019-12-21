@@ -1,15 +1,16 @@
 package agh.ostatni5.eomc.view;
 
-import agh.ostatni5.eomc.Creature;
-import agh.ostatni5.eomc.StatisticsCreature;
-import agh.ostatni5.eomc.Vector2d;
-import agh.ostatni5.eomc.WorldMap;
+import agh.ostatni5.eomc.core.Creature;
+import agh.ostatni5.eomc.core.Rectangle;
+import agh.ostatni5.eomc.stats.StatisticsCreature;
+import agh.ostatni5.eomc.core.Vector2d;
+import agh.ostatni5.eomc.core.WorldMap;
 
 import javax.swing.*;
 import java.awt.*;
 
 public class GameCanvas extends JPanel {
-    public int tileSize = 20;
+    private int tileSize;
     private StatisticsCreature statisticsCreature;
     private WorldMap worldMap;
     private Color grassColor = new Color(167, 219, 55);
@@ -22,11 +23,7 @@ public class GameCanvas extends JPanel {
     public GameCanvas(WorldMap worldMap, int canvasSize) {
         this.worldMap = worldMap;
         this.tileSize = canvasSize / worldMap.savanna.rectangle.width;
-//        setSize(resize(worldMap.savanna.rectangle.width),resize(worldMap.savanna.rectangle.height));
-
     }
-
-    ;
 
     @Override
     public Dimension getPreferredSize() {
@@ -40,7 +37,6 @@ public class GameCanvas extends JPanel {
 
     @Override
     public void paint(Graphics g) {
-        Graphics2D graphic2d = (Graphics2D) g;
         g.setFont(new Font("TimesRoman", Font.PLAIN, (int) (tileSize * 0.8)));
         paintSavanna(g);
         paintJungle(g);
@@ -78,12 +74,12 @@ public class GameCanvas extends JPanel {
 
     private void paintSavanna(Graphics g) {
         g.setColor(savannaColor);
-        g.fillRect(0, 0, resize(worldMap.savanna.rectangle.width), resize(worldMap.savanna.rectangle.height));
+        fillRecResized(g,worldMap.savanna.rectangle);
     }
 
     private void paintJungle(Graphics g) {
         g.setColor(jungleColor);
-        g.fillRect(resize(worldMap.jungle.rectangle.corners[0].x), resize(worldMap.jungle.rectangle.corners[0].y), resize(worldMap.jungle.rectangle.width), resize(worldMap.jungle.rectangle.height));
+        fillRecResized(g,worldMap.jungle.rectangle);
     }
 
     private void paintGrass(Graphics g, Vector2d v) {
@@ -123,17 +119,19 @@ public class GameCanvas extends JPanel {
         g2.drawOval(resize(vector2d.x), resize(vector2d.y), tileSize, tileSize);
     }
 
-    int resize(int a) {
+    private int resize(int a) {
         return a * tileSize;
     }
 
-    public StatisticsCreature getStatisticsCreature() {
-        return statisticsCreature;
+    private void fillRecResized(Graphics g,Rectangle rectangle)
+    {
+        g.fillRect(resize(rectangle.corners[0].x), resize(rectangle.corners[0].y), resize(rectangle.width), resize(rectangle.height));
     }
 
     public void setStatisticsCreature(StatisticsCreature statisticsCreature) {
         this.statisticsCreature = statisticsCreature;
     }
+
     public void clearStatisticsCreature() {
         setStatisticsCreature(null);
     }

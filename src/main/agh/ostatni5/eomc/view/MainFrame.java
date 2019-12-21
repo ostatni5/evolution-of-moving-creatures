@@ -1,5 +1,5 @@
 package agh.ostatni5.eomc.view;
-import agh.ostatni5.eomc.Options;
+import agh.ostatni5.eomc.core.Options;
 
 import javax.swing.*;
 
@@ -9,7 +9,6 @@ public class MainFrame extends JFrame {
     private SimulationPanel [] simulationPanels;
     public MainFrame() {
         super("Evolution of moving creatures");
-        setSize(600,600);
         setLayout(new BoxLayout(getContentPane(), BoxLayout.Y_AXIS));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
