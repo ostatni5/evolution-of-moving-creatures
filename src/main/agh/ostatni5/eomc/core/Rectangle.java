@@ -7,7 +7,7 @@ public class Rectangle {
     final public int width;
     final public int height;
     final public Vector2d[] corners = new Vector2d[4];
-    Rectangle(int _width,int _height, Vector2d startPoint){
+    public Rectangle(int _width,int _height, Vector2d startPoint){
         width=_width;
         height=_height;
         corners[0]=startPoint;
@@ -15,7 +15,7 @@ public class Rectangle {
         corners[2]= new Vector2d(startPoint.x+width-1,startPoint.y+height-1);
         corners[3]= new Vector2d(startPoint.x,startPoint.y+height-1);
     };
-    Rectangle(Rectangle rectangle)
+    public Rectangle(Rectangle rectangle)
     {
         width=rectangle.width;
         height=rectangle.height;

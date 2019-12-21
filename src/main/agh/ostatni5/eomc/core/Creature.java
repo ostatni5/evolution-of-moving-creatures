@@ -91,7 +91,7 @@ public class Creature implements IMapElement {
     }
 
     public boolean ableToBreed() {
-        return energy.value >= energy.start / 2 && !multiplied;
+        return energy.value >= energy.start / 2 && !multiplied && !moved;
     }
 
     public void setPosition(Vector2d position) {

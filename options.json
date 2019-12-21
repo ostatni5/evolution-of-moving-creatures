@@ -8,6 +8,6 @@
   "DayEnergyCost": 2,
   "GrassEnergy": 14,
   "SimulationCount": 1,
-  "SimulationLength": 10000,
+  "SimulationLength": 1000,
   "CanvasSize": 400
 }

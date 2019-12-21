@@ -75,7 +75,7 @@ public class WorldMap implements IPositionChangeObserver {
                 killCreature(creature);
                 return true;
             } else {
-                if (creature.getEnergy().value >= maxEnergy.get()) {
+                if (creature.getEnergy().value >= maxEnergy.get() && !creature.getMoved()) {
                     maxEnergy.set(creature.getEnergy().value);
                     ableEat.add(creature);
                 }
@@ -97,7 +97,6 @@ public class WorldMap implements IPositionChangeObserver {
 
     private void phaseBreed(PriorityQueue<Creature> creatures) {
         if (creatures.size() >= 2) {
-            int i = 0;
             Creature[] parents = new Creature[2];
             parents[0] = creatures.poll();
             parents[1] = creatures.poll();
